@@ -9,7 +9,14 @@ class Solution:
         a = headA
         b = headB
         while a!=b:
-            a=headB if a==None else a.next
-            b=headA if b==None else b.next
+            if a:
+                a=a.next
+            else:
+                a=headB
+            if b:
+                b=b.next
+            else:
+                b=headA
         return a
-        
+
+            
