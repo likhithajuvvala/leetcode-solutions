@@ -14,5 +14,6 @@ class Solution:
             else:
                 p=p.next
         return head
+        #instead we can create another list but takes more memory
 
         
