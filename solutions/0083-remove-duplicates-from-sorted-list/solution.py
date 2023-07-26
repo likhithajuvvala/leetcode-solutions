@@ -8,7 +8,7 @@ class Solution:
         if not head:
             return None
         p=head
-        while p.next:
+        while p.next!=None:
             if p.val==p.next.val:
                 p.next=p.next.next
             else:
