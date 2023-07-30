@@ -12,10 +12,12 @@ class Solution:
             tail=tail.next
             length+=1
         k=k%length
-        tail.next=head
-        newHead=head
+        if k==0:
+            return head
+        curr = head
         for i in range(length-k-1):
-            newHead=newHead.next
-        ans=newHead.next
-        newHead.next=None
-        return ans
+            curr=curr.next
+        newHead=curr.next
+        curr.next=None
+        tail.next=head
+        return newHead
