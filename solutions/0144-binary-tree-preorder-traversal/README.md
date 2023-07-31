@@ -8,7 +8,7 @@
 
 | Language | Runtime | Memory | Solved on |
 |---|---|---|---|
-| python3 | 37 ms | 16.3 MB | 2023-07-28 |
+| python3 | 41 ms | 16.4 MB | 2023-07-31 |
 
 Solution file: [`solution.py`](solution.py)
 
