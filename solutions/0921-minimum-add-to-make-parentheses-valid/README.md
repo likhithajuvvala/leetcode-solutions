@@ -8,9 +8,9 @@
 
 | Language | Runtime | Memory | Solved on |
 |---|---|---|---|
-| java | 2 ms | 40.5 MB | 2023-08-06 |
+| python3 | 34 ms | 16.3 MB | 2023-08-06 |
 
-Solution file: [`solution.java`](solution.java)
+Solution file: [`solution.py`](solution.py)
 
 ## Problem
 
