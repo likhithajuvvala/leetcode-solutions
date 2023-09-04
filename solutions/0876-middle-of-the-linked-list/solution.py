@@ -11,4 +11,3 @@ class Solution:
             slow=slow.next
             fast=fast.next.next
         return slow.next if fast.next!=None else slow
-      
