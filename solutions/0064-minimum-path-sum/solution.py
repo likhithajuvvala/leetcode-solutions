@@ -1,13 +1,16 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        n=len(grid)
-        m=len(grid[0])
-        for i in range(1,n):
-            grid[i][0]+=grid[i-1][0]
-        for j in range(1,m):
-            grid[0][j]+=grid[0][j-1]
-        for i in range(1,n):
-            for j in range(1,m):
-                grid[i][j]+=min(grid[i-1][j],grid[i][j-1])
-        return grid[n-1][m-1]
-        
+        def solve(i:int,j:int)->int:
+            if i==0 and j==0:
+                return grid[0][0]
+            if i<0 or j<0:
+                return 1e9
+            if dp[i][j]!=-1:
+                return dp[i][j]
+            up=grid[i][j]+solve(i-1,j)
+            left=grid[i][j]+solve(i,j-1)
+            dp[i][j]= min(up,left)
+            return dp[i][j]
+        m,n=len(grid),len(grid[0])
+        dp=[[-1 for j in range(n)] for i in range(m)]
+        return solve(m-1,n-1)
