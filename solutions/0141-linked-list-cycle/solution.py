@@ -13,7 +13,7 @@ class Solution:
         while fast.next!=None and fast.next.next!=None:
             slow=slow.next
             fast=fast.next.next
-            if fast==slow:
+            if slow==fast:
                 return True
         return False
-     
+        
