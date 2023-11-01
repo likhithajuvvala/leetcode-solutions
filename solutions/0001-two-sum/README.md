@@ -8,9 +8,9 @@
 
 | Language | Runtime | Memory | Solved on |
 |---|---|---|---|
-| cpp | 10 ms | 10.8 MB | 2023-06-26 |
+| python3 | 62 ms | 17.5 MB | 2023-11-01 |
 
-Solution file: [`solution.cpp`](solution.cpp)
+Solution file: [`solution.py`](solution.py)
 
 ## Problem
 
