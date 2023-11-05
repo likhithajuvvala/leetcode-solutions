@@ -13,10 +13,12 @@ class Solution {
         }
         Combinations(ind+1,arr,target,ans,ds);
     }
-
+    
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>>ans=new ArrayList<>();
+        Arrays.sort(candidates);
         Combinations(0,candidates,target,ans,new ArrayList<>());
         return ans;
+        
     }
 }
