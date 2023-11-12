@@ -8,9 +8,9 @@
 
 | Language | Runtime | Memory | Solved on |
 |---|---|---|---|
-| cpp | 7 ms | 12 MB | 2023-08-07 |
+| java | 1 ms | 42 MB | 2023-11-12 |
 
-Solution file: [`solution.cpp`](solution.cpp)
+Solution file: [`solution.java`](solution.java)
 
 ## Problem
 
