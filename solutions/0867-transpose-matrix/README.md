@@ -8,7 +8,7 @@
 
 | Language | Runtime | Memory | Solved on |
 |---|---|---|---|
-| java | 0 ms | 44.2 MB | 2023-12-10 |
+| java | 0 ms | 44.6 MB | 2023-12-10 |
 
 Solution file: [`solution.java`](solution.java)
 
