@@ -3,6 +3,6 @@ class Solution {
         if(s.length()!=goal.length()){
             return false;
         }
-        return ((s+s).indexOf(goal)>=0);
+        return ((s+s).contains(goal));
     }
 }
