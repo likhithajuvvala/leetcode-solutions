@@ -1,6 +1,6 @@
 class Solution {
     public long minimumOperations(int[] nums, int[] target) {
-       var n = nums.length;
+      var n = nums.length;
         long incr = 0, decr = 0, ops = 0;
 
         for (var i = 0; i < n; i++) {
@@ -21,6 +21,6 @@ class Solution {
             }
         }
 
-        return ops; 
+        return ops;  
     }
 }
