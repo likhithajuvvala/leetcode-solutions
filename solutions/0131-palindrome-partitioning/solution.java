@@ -1,46 +1,30 @@
 class Solution {
+        public static List < List < String >> partition(String s) {
+        List < List < String >> res = new ArrayList < > ();
+        List < String > path = new ArrayList < > ();
+        partitionHelper(0, s, path, res);
+        return res;
+    }
 
-      int n;
-    boolean[][] is_palindrome;
-    String[][] substrings;
-
-    List<List<String>> ans;
-
-    void FindSubstrings(int ind, ArrayList<String> list) {
-        if (ind == n) {
-            ans.add(new ArrayList<String>(list));
+    static void partitionHelper(int index, String s, List < String > path, List < List < String >> res) {
+        if (index == s.length()) {
+            res.add(new ArrayList < > (path));
             return;
         }
-
-        for (int i = ind + 1; i <= n; i++) {
-            if (!is_palindrome[ind][i]) continue;
-            list.add(substrings[ind][i]);
-            FindSubstrings(i, list);
-            list.remove(list.size() - 1);
+        for (int i = index; i < s.length(); ++i) {
+            if (isPalindrome(s, index, i)) {
+                path.add(s.substring(index, i + 1));
+                partitionHelper(i + 1, s, path, res);
+                path.remove(path.size() - 1);
+            }
         }
-    }  
-        public List<List<String>> partition(String s) {
-             n = s.length();
-        is_palindrome = new boolean[n + 1][n + 1];
-        substrings = new String[n + 1][n + 1];
-        for (int i = 0; i < n; i++) for (int j = i + 1; j <= n; j++) {
-            substrings[i][j] = s.substring(i, j);
-            is_palindrome[i][j] = IsPalindrome(substrings[i][j]);
-        }
-
-        ans = new ArrayList<List<String>>();
-        FindSubstrings(0, new ArrayList<String>());
-        return ans;
     }
 
-    boolean IsPalindrome(String s) {
-        int lower = 0;
-        int higher = s.length() - 1;
-        while (lower < higher) {
-            if (s.charAt(lower) != s.charAt(higher)) return false;
-            lower++;
-            higher--;
+    static boolean isPalindrome(String s, int start, int end) {
+        while (start <= end) {
+            if (s.charAt(start++) != s.charAt(end--))
+                return false;
+        }
+        return true;
     }
-    return true;
-}
 }
