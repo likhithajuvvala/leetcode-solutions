@@ -1,25 +1,25 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-         int CHARACTERS = 256;
-		int k = p.length();
-		char[] sArr = new char[CHARACTERS];
-		char[] pArr = new char[CHARACTERS];
-		for (int i = 0; i < p.length(); i++) {
-			pArr[p.charAt(i)]++;
-		}
-		int i = 0;
-		int j = 0;
-        List<Integer> list = new ArrayList<>();
-		while (j < s.length()) {
-			sArr[s.charAt(j)]++;
-			if (j - i + 1 >= k) {
-				if (Arrays.equals(pArr, sArr))
-					list.add(i);
-				sArr[s.charAt(i)]--;
-				i++;
-			}
-			j++;
-		}
-		return list;
+        List<Integer> result = new ArrayList<>();
+        if(p.length()>s.length()){
+            return result;
+        }
+        int[] need = new int[26];
+        int[] window = new int[26];
+
+        for(int i=0;i<p.length();i++){
+           need[p.charAt(i)-'a']++;
+        }
+        int k=p.length();
+        for(int r=0;r<s.length();r++){
+            window[s.charAt(r)-'a']++;
+            if(r>=k){
+                window[s.charAt(r-k)-'a']--;
+            }
+            if(Arrays.equals(need,window)){
+                result.add(r-k+1);
+            }
+        }
+        return result;
     }
 }
