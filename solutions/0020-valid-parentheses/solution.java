@@ -1,18 +1,19 @@
 class Solution {
     public boolean isValid(String s) {
-        while(true){
-            if(s.contains("()")){
-                s=s.replace("()","");
-            }
-            else if(s.contains("[]")){
-                s=s.replace("[]","");
-            }
-            else if(s.contains("{}")){
-                s=s.replace("{}","");
+        Deque<Character>stack = new ArrayDeque<>();
+        for(char c: s.toCharArray()){
+            if(c=='('||c=='['||c=='{'){
+                stack.push(c);
             }
             else{
-                return s.isEmpty();
+                if(stack.isEmpty()) return false;
+                char open = stack.pop();
+                if(c==')'&& open!='(') return false;
+                if(c==']'&& open!='[') return false;
+                if(c=='}'&& open!='{') return false;
+
             }
         }
+        return stack.isEmpty();
     }
 }
