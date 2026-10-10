@@ -1,24 +1,19 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-         Map<Integer, Integer> basket = new HashMap<>();
-        int left = 0, right;
-        
-        // Add fruit from right side (right) of the window.
-        for (right = 0; right < fruits.length; ++right) {
-            basket.put(fruits[right], basket.getOrDefault(fruits[right], 0) + 1);
-            
-            // If the current window has more than 2 types of fruit,
-            // we remove one fruit from the left index (left) of the window.
-            if (basket.size() > 2) {
-                basket.put(fruits[left], basket.get(fruits[left]) - 1);
-                if (basket.get(fruits[left]) == 0)
-                    basket.remove(fruits[left]);
-                left++;
+        int l=0;
+        int best =0;
+        Map<Integer, Integer> count = new HashMap<>();
+        for(int r=0;r<fruits.length;r++){
+            count.put(fruits[r], count.getOrDefault(fruits[r],0)+1);
+            while(count.size()>2){
+                count.put(fruits[l],count.get(fruits[l])-1);
+                if(count.get(fruits[l])==0){
+                    count.remove(fruits[l]);
+                }
+                l++;
             }
+            best = Math.max(best,r-l+1);
         }
-        
-        // Once we finish the iteration, the indexes left and right 
-        // stands for the longest valid subarray we encountered.
-        return right - left;
+        return best;
     }
 }
