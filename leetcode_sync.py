@@ -126,7 +126,8 @@ def save_problem(q, sub):
     }
 
 
-def write_root_readme(problems):
+    if new_subs:
+        write_root_readme(problems)
     rows = sorted(problems.values(), key=lambda p: p["id"])
     counts = {d: sum(1 for p in rows if p["difficulty"] == d) for d in ("Easy", "Medium", "Hard")}
     lines = [
