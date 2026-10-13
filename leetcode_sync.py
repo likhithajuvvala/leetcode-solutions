@@ -1,5 +1,17 @@
 #!/usr/bin/env python3
-"""Sync accepted LeetCode submissions into this repo, with a README per problem."""
+"""Sync accepted LeetCode submissions into this repo, with a README per problem.
+
+With --push, every submission becomes its own git commit dated when you actually
+solved it, so your GitHub contribution graph reflects your real history.
+
+Env vars required:
+  LEETCODE_SESSION  - value of the LEETCODE_SESSION cookie
+  LEETCODE_CSRF     - value of the csrftoken cookie
+
+Usage:
+  python leetcode_sync.py            # write files only
+  python leetcode_sync.py --push     # also commit (one per submission) and push
+"""
 import argparse
 import json
 import os
@@ -14,7 +26,7 @@ import requests
 BASE = "https://leetcode.com"
 SOLUTIONS_DIR = Path("solutions")
 STATE_FILE = Path(".leetcode_sync_state.json")
-DELAY = 1.5
+DELAY = 1.5  # seconds between requests, be polite
 
 EXT = {
     "python": "py", "python3": "py", "cpp": "cpp", "java": "java",
@@ -56,6 +68,7 @@ def make_session():
 
 
 def fetch_accepted(s, known_ids):
+    """Yield accepted submissions, newest first. Stops once it hits a known one."""
     offset, limit = 0, 20
     while True:
         r = s.get(f"{BASE}/api/submissions/", params={"offset": offset, "limit": limit}, timeout=30)
@@ -126,16 +139,13 @@ def save_problem(q, sub):
     }
 
 
-    if new_subs:
-        write_root_readme(problems)
+def write_root_readme(problems):
     rows = sorted(problems.values(), key=lambda p: p["id"])
     counts = {d: sum(1 for p in rows if p["difficulty"] == d) for d in ("Easy", "Medium", "Hard")}
     lines = [
         "# LeetCode Solutions",
         "",
         f"**Solved:** {len(rows)} (Easy {counts['Easy']} / Medium {counts['Medium']} / Hard {counts['Hard']})",
-        "",
-        f"_Last synced: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}_",
         "",
         "| # | Title | Difficulty | Language |",
         "|---|---|---|---|",
@@ -145,18 +155,21 @@ def save_problem(q, sub):
     Path("README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
-def git_push(n):
-    subprocess.run(["git", "add", "-A"], check=True)
+def git_commit(message, paths, ts):
+    """Stage `paths` and commit them dated at unix time `ts`. Skips if nothing changed."""
+    subprocess.run(["git", "add", "--", *paths], check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
-        print("Nothing to commit.")
-        return
-    subprocess.run(["git", "commit", "-m", f"Sync LeetCode: {n} new submission(s)"], check=True)
-    subprocess.run(["git", "push"], check=True)
+        return False
+    when = f"{int(ts)} +0000"
+    env = {**os.environ, "GIT_AUTHOR_DATE": when, "GIT_COMMITTER_DATE": when}
+    subprocess.run(["git", "commit", "-m", message], check=True, env=env)
+    return True
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--push", action="store_true", help="git commit and push after syncing")
+    ap.add_argument("--push", action="store_true",
+                    help="commit each submission (dated when you solved it) and push")
     args = ap.parse_args()
 
     state = json.loads(STATE_FILE.read_text()) if STATE_FILE.exists() else {"seen": [], "problems": {}}
@@ -167,24 +180,35 @@ def main():
     new_subs = list(fetch_accepted(s, seen))
     print(f"{len(new_subs)} new accepted submission(s).")
 
-    for sub in reversed(new_subs):  # oldest first, newest wins
+    saved = []
+    for sub in reversed(new_subs):  # oldest first, so commits are chronological
         key = f"{sub['title_slug']}:{sub['lang']}"
         try:
             q = fetch_question(s, sub["title_slug"])
-        except Exception as e:
+        except Exception as e:  # keep going; retry next run
             print(f"  skip {sub['title_slug']}: {e}")
             continue
         info = save_problem(q, sub)
         problems[key] = info
         seen.add(sub["id"])
+        saved.append(sub)
         print(f"  saved {info['id']}. {info['title']} ({info['lang']})")
+        if args.push:
+            git_commit(f"Solve {info['id']}. {info['title']} ({info['lang']})",
+                       [info["folder"]], sub["timestamp"])
         time.sleep(DELAY)
 
     STATE_FILE.write_text(json.dumps({"seen": sorted(seen), "problems": problems}, indent=1))
-    write_root_readme(problems)
 
-    if args.push:
-        git_push(len(new_subs))
+    if saved:
+        write_root_readme(problems)
+        if args.push:
+            # Dated at the newest solve, so no commit claims activity that didn't happen.
+            git_commit("Update README and sync state",
+                       ["README.md", STATE_FILE.as_posix()], saved[-1]["timestamp"])
+            subprocess.run(["git", "push"], check=True)
+    else:
+        print("Nothing new to commit.")
 
 
 if __name__ == "__main__":
