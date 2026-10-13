@@ -1,0 +1,2699 @@
+{
+ "seen": [
+  852038688,
+  852041839,
+  852048312,
+  889510895,
+  890214006,
+  890740639,
+  891474027,
+  892154604,
+  892770820,
+  893484671,
+  894138205,
+  895143782,
+  895143862,
+  895144582,
+  895145351,
+  968434288,
+  968444153,
+  971285956,
+  971287447,
+  971288706,
+  980239171,
+  980261736,
+  980270630,
+  981273941,
+  981283084,
+  982456247,
+  985040215,
+  985041691,
+  985045201,
+  985047050,
+  985549874,
+  985578014,
+  985588074,
+  985610495,
+  985622890,
+  985625651,
+  986128710,
+  986140487,
+  986562901,
+  986574400,
+  987114731,
+  987129668,
+  988595647,
+  988596511,
+  991403583,
+  994347983,
+  995166443,
+  995170982,
+  1003200882,
+  1003201052,
+  1003277530,
+  1003286802,
+  1003289003,
+  1003316049,
+  1003328727,
+  1003329004,
+  1003333303,
+  1003342067,
+  1003357958,
+  1003369042,
+  1003403998,
+  1003406266,
+  1003424067,
+  1003432988,
+  1003443196,
+  1003448185,
+  1003602633,
+  1003708608,
+  1003734497,
+  1003816828,
+  1004058596,
+  1004059492,
+  1004167693,
+  1004192750,
+  1004194268,
+  1004197878,
+  1004213622,
+  1004224209,
+  1004230192,
+  1004230915,
+  1004239446,
+  1004243504,
+  1004923496,
+  1005049135,
+  1005053354,
+  1005089410,
+  1005092538,
+  1005121550,
+  1005271007,
+  1005386350,
+  1005458759,
+  1005462121,
+  1005537089,
+  1005875602,
+  1005880187,
+  1005881424,
+  1005898299,
+  1005923408,
+  1005948598,
+  1005949159,
+  1006021826,
+  1006037598,
+  1006054662,
+  1006067128,
+  1007320481,
+  1007432949,
+  1007437372,
+  1007461306,
+  1007463517,
+  1007779284,
+  1007936744,
+  1007941545,
+  1007942830,
+  1008113735,
+  1008120299,
+  1008124669,
+  1008716056,
+  1010522429,
+  1010523313,
+  1010747479,
+  1012265604,
+  1012714417,
+  1012732000,
+  1013103462,
+  1013109742,
+  1013388730,
+  1013392679,
+  1013427431,
+  1013432904,
+  1013476400,
+  1013575951,
+  1013885961,
+  1013906760,
+  1013909439,
+  1014256594,
+  1014353289,
+  1014373299,
+  1014662750,
+  1014785770,
+  1014884068,
+  1015026440,
+  1015029805,
+  1015035031,
+  1015036796,
+  1015039337,
+  1015043533,
+  1015046414,
+  1015048410,
+  1015050696,
+  1015921724,
+  1015956734,
+  1015959728,
+  1016224986,
+  1016236288,
+  1016243050,
+  1017694474,
+  1018645728,
+  1018673814,
+  1019416841,
+  1019448913,
+  1019452356,
+  1019458792,
+  1019472843,
+  1020431303,
+  1020458185,
+  1020463214,
+  1020469110,
+  1021272767,
+  1022293952,
+  1023266748,
+  1024519653,
+  1026858187,
+  1027862861,
+  1028365765,
+  1036835988,
+  1036845027,
+  1036849632,
+  1036851036,
+  1036861500,
+  1036871309,
+  1036875666,
+  1036885934,
+  1036891615,
+  1039508683,
+  1039515721,
+  1039519325,
+  1039520772,
+  1040576815,
+  1040580298,
+  1040584788,
+  1040617641,
+  1040821642,
+  1040825327,
+  1040828777,
+  1040853894,
+  1040855989,
+  1040856815,
+  1040857841,
+  1041264538,
+  1041268112,
+  1041269822,
+  1041423570,
+  1041880289,
+  1041906789,
+  1041913044,
+  1041919711,
+  1042358750,
+  1042360687,
+  1042661214,
+  1042707138,
+  1042709210,
+  1042843459,
+  1042846477,
+  1042856999,
+  1042860633,
+  1042868814,
+  1042870423,
+  1042880928,
+  1042891112,
+  1048679221,
+  1048681006,
+  1061673063,
+  1089129378,
+  1089132186,
+  1089152922,
+  1089187525,
+  1089191780,
+  1089201009,
+  1089209141,
+  1089212142,
+  1089737544,
+  1089739349,
+  1089748528,
+  1089755306,
+  1089764689,
+  1089770106,
+  1089898282,
+  1089898950,
+  1091356010,
+  1091356807,
+  1092044809,
+  1092044926,
+  1092062192,
+  1092234483,
+  1092254822,
+  1092267011,
+  1092267239,
+  1097111906,
+  1097138204,
+  1097377660,
+  1098518688,
+  1098522051,
+  1098837951,
+  1098861153,
+  1099368562,
+  1099436883,
+  1099444235,
+  1099449103,
+  1099487592,
+  1099492334,
+  1101549734,
+  1102183232,
+  1102736322,
+  1103185897,
+  1103605163,
+  1104338570,
+  1104928855,
+  1105568843,
+  1105910710,
+  1106852571,
+  1107608260,
+  1108275052,
+  1109066068,
+  1109635516,
+  1110356275,
+  1110938391,
+  1111618697,
+  1112336463,
+  1113032918,
+  1113800224,
+  1114557340,
+  1115212157,
+  1115919619,
+  1116599391,
+  1116599649,
+  1117323975,
+  1118245162,
+  1119032540,
+  1119798973,
+  1120796332,
+  1121976761,
+  1122795970,
+  1131275978,
+  1131276183,
+  1131904937,
+  1131940023,
+  1131980739,
+  1132850426,
+  1138201345,
+  1138205037,
+  1138213522,
+  1138214453,
+  1142736483,
+  1328707766,
+  1328710092,
+  1328724821,
+  1328731669,
+  1328731886,
+  1328733668,
+  1328733930,
+  1328756345,
+  1329281726,
+  1330284742,
+  1380723628,
+  1385725736,
+  1385751404,
+  1386111472,
+  1386145045,
+  1408997148,
+  1456899658,
+  1457907678,
+  1502615337,
+  1517604689,
+  1518284366,
+  1518671442,
+  1527826986,
+  1527830322,
+  1527830421,
+  1530225634,
+  1530240141,
+  1531476912,
+  1531918466,
+  1531929235,
+  1531943715,
+  1531957110,
+  1532806485,
+  1533972667,
+  1536100615,
+  1553765992,
+  1553810585,
+  1553820982,
+  1554676007,
+  1554723679,
+  1554730988,
+  1554738491,
+  1555787501,
+  1562135161,
+  1562139103,
+  1562186281,
+  1562205504,
+  1562217804,
+  1562320238,
+  1602059247,
+  1619956687,
+  1619989796,
+  1620128681,
+  1628016880,
+  1628362123,
+  1628865123,
+  1628865442,
+  1629042636,
+  1630338292,
+  1631560122,
+  1632609739,
+  1633496966,
+  1634315618,
+  1634328176,
+  1674128598,
+  1675300538,
+  1708125322,
+  1809719611,
+  1809991889,
+  1810071763,
+  1810598377,
+  1810599854,
+  1814401043,
+  1834555424,
+  1834906968,
+  1838625692,
+  1846207536,
+  1848042365,
+  1848042711,
+  1850466674,
+  1850760167,
+  1850764426,
+  1851391973,
+  1851688502,
+  1964204571,
+  1964396485,
+  2154335748,
+  2154342681,
+  2154352397,
+  2154367348,
+  2154373202,
+  2155780061,
+  2155796748,
+  2155808715,
+  2155820427,
+  2158037316,
+  2159610142,
+  2159618431,
+  2159653136,
+  2162560247,
+  2163619468,
+  2163622992,
+  2163627115,
+  2164703834,
+  2164717309,
+  2165080392,
+  2165083305,
+  2165097044,
+  2165099679,
+  2165439489,
+  2165768448,
+  2166238019,
+  2166773650,
+  2167496089,
+  2167496946,
+  2167532903,
+  2167554826,
+  2167678288,
+  2167678394,
+  2167686603,
+  2168581333,
+  2168596951,
+  2168597864,
+  2168598021,
+  2168614140,
+  2168636262,
+  2168640274,
+  2168649911,
+  2170047844,
+  2170065804,
+  2170090530,
+  2170102522,
+  2170108242,
+  2171307471
+ ],
+ "problems": {
+  "binary-tree-inorder-traversal:java": {
+   "id": 94,
+   "title": "Binary Tree Inorder Traversal",
+   "slug": "binary-tree-inorder-traversal",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0094-binary-tree-inorder-traversal"
+  },
+  "binary-tree-preorder-traversal:java": {
+   "id": 144,
+   "title": "Binary Tree Preorder Traversal",
+   "slug": "binary-tree-preorder-traversal",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0144-binary-tree-preorder-traversal"
+  },
+  "unique-number-of-occurrences:java": {
+   "id": 1207,
+   "title": "Unique Number of Occurrences",
+   "slug": "unique-number-of-occurrences",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1207-unique-number-of-occurrences"
+  },
+  "greatest-common-divisor-of-strings:java": {
+   "id": 1071,
+   "title": "Greatest Common Divisor of Strings",
+   "slug": "greatest-common-divisor-of-strings",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1071-greatest-common-divisor-of-strings"
+  },
+  "verifying-an-alien-dictionary:cpp": {
+   "id": 953,
+   "title": "Verifying an Alien Dictionary",
+   "slug": "verifying-an-alien-dictionary",
+   "difficulty": "Easy",
+   "lang": "cpp",
+   "folder": "solutions/0953-verifying-an-alien-dictionary"
+  },
+  "zigzag-conversion:java": {
+   "id": 6,
+   "title": "Zigzag Conversion",
+   "slug": "zigzag-conversion",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0006-zigzag-conversion"
+  },
+  "permutation-in-string:java": {
+   "id": 567,
+   "title": "Permutation in String",
+   "slug": "permutation-in-string",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0567-permutation-in-string"
+  },
+  "find-all-anagrams-in-a-string:java": {
+   "id": 438,
+   "title": "Find All Anagrams in a String",
+   "slug": "find-all-anagrams-in-a-string",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0438-find-all-anagrams-in-a-string"
+  },
+  "shuffle-the-array:java": {
+   "id": 1470,
+   "title": "Shuffle the Array",
+   "slug": "shuffle-the-array",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1470-shuffle-the-array"
+  },
+  "fruit-into-baskets:java": {
+   "id": 904,
+   "title": "Fruit Into Baskets",
+   "slug": "fruit-into-baskets",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0904-fruit-into-baskets"
+  },
+  "subsets-ii:java": {
+   "id": 90,
+   "title": "Subsets II",
+   "slug": "subsets-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0090-subsets-ii"
+  },
+  "jump-game-ii:java": {
+   "id": 45,
+   "title": "Jump Game II",
+   "slug": "jump-game-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0045-jump-game-ii"
+  },
+  "naming-a-company:java": {
+   "id": 2306,
+   "title": "Naming a Company",
+   "slug": "naming-a-company",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/2306-naming-a-company"
+  },
+  "as-far-from-land-as-possible:java": {
+   "id": 1162,
+   "title": "As Far from Land as Possible",
+   "slug": "as-far-from-land-as-possible",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1162-as-far-from-land-as-possible"
+  },
+  "find-the-duplicate-number:java": {
+   "id": 287,
+   "title": "Find the Duplicate Number",
+   "slug": "find-the-duplicate-number",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0287-find-the-duplicate-number"
+  },
+  "sort-colors:java": {
+   "id": 75,
+   "title": "Sort Colors",
+   "slug": "sort-colors",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0075-sort-colors"
+  },
+  "binary-tree-cameras:java": {
+   "id": 968,
+   "title": "Binary Tree Cameras",
+   "slug": "binary-tree-cameras",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0968-binary-tree-cameras"
+  },
+  "minimum-absolute-difference-in-bst:java": {
+   "id": 530,
+   "title": "Minimum Absolute Difference in BST",
+   "slug": "minimum-absolute-difference-in-bst",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0530-minimum-absolute-difference-in-bst"
+  },
+  "two-sum:cpp": {
+   "id": 1,
+   "title": "Two Sum",
+   "slug": "two-sum",
+   "difficulty": "Easy",
+   "lang": "cpp",
+   "folder": "solutions/0001-two-sum"
+  },
+  "4sum:java": {
+   "id": 18,
+   "title": "4Sum",
+   "slug": "4sum",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0018-4sum"
+  },
+  "longest-consecutive-sequence:java": {
+   "id": 128,
+   "title": "Longest Consecutive Sequence",
+   "slug": "longest-consecutive-sequence",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0128-longest-consecutive-sequence"
+  },
+  "set-matrix-zeroes:java": {
+   "id": 73,
+   "title": "Set Matrix Zeroes",
+   "slug": "set-matrix-zeroes",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0073-set-matrix-zeroes"
+  },
+  "best-time-to-buy-and-sell-stock:java": {
+   "id": 121,
+   "title": "Best Time to Buy and Sell Stock",
+   "slug": "best-time-to-buy-and-sell-stock",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0121-best-time-to-buy-and-sell-stock"
+  },
+  "longest-substring-without-repeating-characters:java": {
+   "id": 3,
+   "title": "Longest Substring Without Repeating Characters",
+   "slug": "longest-substring-without-repeating-characters",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0003-longest-substring-without-repeating-characters"
+  },
+  "longest-even-odd-subarray-with-threshold:java": {
+   "id": 2760,
+   "title": "Longest Even Odd Subarray With Threshold",
+   "slug": "longest-even-odd-subarray-with-threshold",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2760-longest-even-odd-subarray-with-threshold"
+  },
+  "prime-pairs-with-target-sum:java": {
+   "id": 2761,
+   "title": "Prime Pairs With Target Sum",
+   "slug": "prime-pairs-with-target-sum",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2761-prime-pairs-with-target-sum"
+  },
+  "continuous-subarrays:java": {
+   "id": 2762,
+   "title": "Continuous Subarrays",
+   "slug": "continuous-subarrays",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2762-continuous-subarrays"
+  },
+  "sum-of-imbalance-numbers-of-all-subarrays:java": {
+   "id": 2763,
+   "title": "Sum of Imbalance Numbers of All Subarrays",
+   "slug": "sum-of-imbalance-numbers-of-all-subarrays",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/2763-sum-of-imbalance-numbers-of-all-subarrays"
+  },
+  "reverse-linked-list:java": {
+   "id": 206,
+   "title": "Reverse Linked List",
+   "slug": "reverse-linked-list",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0206-reverse-linked-list"
+  },
+  "remove-nth-node-from-end-of-list:java": {
+   "id": 19,
+   "title": "Remove Nth Node From End of List",
+   "slug": "remove-nth-node-from-end-of-list",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0019-remove-nth-node-from-end-of-list"
+  },
+  "middle-of-the-linked-list:java": {
+   "id": 876,
+   "title": "Middle of the Linked List",
+   "slug": "middle-of-the-linked-list",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0876-middle-of-the-linked-list"
+  },
+  "merge-two-sorted-lists:java": {
+   "id": 21,
+   "title": "Merge Two Sorted Lists",
+   "slug": "merge-two-sorted-lists",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0021-merge-two-sorted-lists"
+  },
+  "add-two-numbers:java": {
+   "id": 2,
+   "title": "Add Two Numbers",
+   "slug": "add-two-numbers",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0002-add-two-numbers"
+  },
+  "delete-node-in-a-linked-list:java": {
+   "id": 237,
+   "title": "Delete Node in a Linked List",
+   "slug": "delete-node-in-a-linked-list",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0237-delete-node-in-a-linked-list"
+  },
+  "intersection-of-two-linked-lists:java": {
+   "id": 160,
+   "title": "Intersection of Two Linked Lists",
+   "slug": "intersection-of-two-linked-lists",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0160-intersection-of-two-linked-lists"
+  },
+  "palindrome-linked-list:java": {
+   "id": 234,
+   "title": "Palindrome Linked List",
+   "slug": "palindrome-linked-list",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0234-palindrome-linked-list"
+  },
+  "combination-sum:java": {
+   "id": 39,
+   "title": "Combination Sum",
+   "slug": "combination-sum",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0039-combination-sum"
+  },
+  "combination-sum-ii:java": {
+   "id": 40,
+   "title": "Combination Sum II",
+   "slug": "combination-sum-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0040-combination-sum-ii"
+  },
+  "palindrome-partitioning:java": {
+   "id": 131,
+   "title": "Palindrome Partitioning",
+   "slug": "palindrome-partitioning",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0131-palindrome-partitioning"
+  },
+  "n-queens:java": {
+   "id": 51,
+   "title": "N-Queens",
+   "slug": "n-queens",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0051-n-queens"
+  },
+  "sudoku-solver:java": {
+   "id": 37,
+   "title": "Sudoku Solver",
+   "slug": "sudoku-solver",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0037-sudoku-solver"
+  },
+  "powx-n:java": {
+   "id": 50,
+   "title": "Pow(x, n)",
+   "slug": "powx-n",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0050-powx-n"
+  },
+  "implement-trie-prefix-tree:java": {
+   "id": 208,
+   "title": "Implement Trie (Prefix Tree)",
+   "slug": "implement-trie-prefix-tree",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0208-implement-trie-prefix-tree"
+  },
+  "rotate-image:java": {
+   "id": 48,
+   "title": "Rotate Image",
+   "slug": "rotate-image",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0048-rotate-image"
+  },
+  "maximum-number-of-events-that-can-be-attended-ii:java": {
+   "id": 1751,
+   "title": "Maximum Number of Events That Can Be Attended II",
+   "slug": "maximum-number-of-events-that-can-be-attended-ii",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/1751-maximum-number-of-events-that-can-be-attended-ii"
+  },
+  "roman-to-integer:python3": {
+   "id": 13,
+   "title": "Roman to Integer",
+   "slug": "roman-to-integer",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0013-roman-to-integer"
+  },
+  "middle-of-the-linked-list:python3": {
+   "id": 876,
+   "title": "Middle of the Linked List",
+   "slug": "middle-of-the-linked-list",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0876-middle-of-the-linked-list"
+  },
+  "remove-nth-node-from-end-of-list:python3": {
+   "id": 19,
+   "title": "Remove Nth Node From End of List",
+   "slug": "remove-nth-node-from-end-of-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0019-remove-nth-node-from-end-of-list"
+  },
+  "reverse-linked-list:python3": {
+   "id": 206,
+   "title": "Reverse Linked List",
+   "slug": "reverse-linked-list",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0206-reverse-linked-list"
+  },
+  "linked-list-cycle:python3": {
+   "id": 141,
+   "title": "Linked List Cycle",
+   "slug": "linked-list-cycle",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0141-linked-list-cycle"
+  },
+  "delete-node-in-a-linked-list:python3": {
+   "id": 237,
+   "title": "Delete Node in a Linked List",
+   "slug": "delete-node-in-a-linked-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0237-delete-node-in-a-linked-list"
+  },
+  "intersection-of-two-linked-lists:python3": {
+   "id": 160,
+   "title": "Intersection of Two Linked Lists",
+   "slug": "intersection-of-two-linked-lists",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0160-intersection-of-two-linked-lists"
+  },
+  "linked-list-cycle-ii:python3": {
+   "id": 142,
+   "title": "Linked List Cycle II",
+   "slug": "linked-list-cycle-ii",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0142-linked-list-cycle-ii"
+  },
+  "merge-two-sorted-lists:python3": {
+   "id": 21,
+   "title": "Merge Two Sorted Lists",
+   "slug": "merge-two-sorted-lists",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0021-merge-two-sorted-lists"
+  },
+  "rotate-list:python3": {
+   "id": 61,
+   "title": "Rotate List",
+   "slug": "rotate-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0061-rotate-list"
+  },
+  "palindrome-linked-list:python3": {
+   "id": 234,
+   "title": "Palindrome Linked List",
+   "slug": "palindrome-linked-list",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0234-palindrome-linked-list"
+  },
+  "flood-fill:java": {
+   "id": 733,
+   "title": "Flood Fill",
+   "slug": "flood-fill",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0733-flood-fill"
+  },
+  "rotting-oranges:java": {
+   "id": 994,
+   "title": "Rotting Oranges",
+   "slug": "rotting-oranges",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0994-rotting-oranges"
+  },
+  "peak-index-in-a-mountain-array:java": {
+   "id": 852,
+   "title": "Peak Index in a Mountain Array",
+   "slug": "peak-index-in-a-mountain-array",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0852-peak-index-in-a-mountain-array"
+  },
+  "minimum-speed-to-arrive-on-time:java": {
+   "id": 1870,
+   "title": "Minimum Speed to Arrive on Time",
+   "slug": "minimum-speed-to-arrive-on-time",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1870-minimum-speed-to-arrive-on-time"
+  },
+  "valid-parentheses:python3": {
+   "id": 20,
+   "title": "Valid Parentheses",
+   "slug": "valid-parentheses",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0020-valid-parentheses"
+  },
+  "remove-duplicates-from-sorted-list:python3": {
+   "id": 83,
+   "title": "Remove Duplicates from Sorted List",
+   "slug": "remove-duplicates-from-sorted-list",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0083-remove-duplicates-from-sorted-list"
+  },
+  "add-two-numbers:python3": {
+   "id": 2,
+   "title": "Add Two Numbers",
+   "slug": "add-two-numbers",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0002-add-two-numbers"
+  },
+  "convert-binary-number-in-a-linked-list-to-integer:python3": {
+   "id": 1290,
+   "title": "Convert Binary Number in a Linked List to Integer",
+   "slug": "convert-binary-number-in-a-linked-list-to-integer",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/1290-convert-binary-number-in-a-linked-list-to-integer"
+  },
+  "climbing-stairs:python3": {
+   "id": 70,
+   "title": "Climbing Stairs",
+   "slug": "climbing-stairs",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0070-climbing-stairs"
+  },
+  "longest-common-subsequence:python3": {
+   "id": 1143,
+   "title": "Longest Common Subsequence",
+   "slug": "longest-common-subsequence",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/1143-longest-common-subsequence"
+  },
+  "longest-palindromic-subsequence:python3": {
+   "id": 516,
+   "title": "Longest Palindromic Subsequence",
+   "slug": "longest-palindromic-subsequence",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0516-longest-palindromic-subsequence"
+  },
+  "permutation-sequence:python3": {
+   "id": 60,
+   "title": "Permutation Sequence",
+   "slug": "permutation-sequence",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0060-permutation-sequence"
+  },
+  "longest-palindromic-substring:python3": {
+   "id": 5,
+   "title": "Longest Palindromic Substring",
+   "slug": "longest-palindromic-substring",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0005-longest-palindromic-substring"
+  },
+  "maximum-running-time-of-n-computers:python3": {
+   "id": 2141,
+   "title": "Maximum Running Time of N Computers",
+   "slug": "maximum-running-time-of-n-computers",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/2141-maximum-running-time-of-n-computers"
+  },
+  "binary-tree-level-order-traversal:java": {
+   "id": 102,
+   "title": "Binary Tree Level Order Traversal",
+   "slug": "binary-tree-level-order-traversal",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0102-binary-tree-level-order-traversal"
+  },
+  "binary-tree-inorder-traversal:python3": {
+   "id": 94,
+   "title": "Binary Tree Inorder Traversal",
+   "slug": "binary-tree-inorder-traversal",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0094-binary-tree-inorder-traversal"
+  },
+  "binary-tree-preorder-traversal:python3": {
+   "id": 144,
+   "title": "Binary Tree Preorder Traversal",
+   "slug": "binary-tree-preorder-traversal",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0144-binary-tree-preorder-traversal"
+  },
+  "binary-tree-postorder-traversal:python3": {
+   "id": 145,
+   "title": "Binary Tree Postorder Traversal",
+   "slug": "binary-tree-postorder-traversal",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0145-binary-tree-postorder-traversal"
+  },
+  "unique-binary-search-trees:python3": {
+   "id": 96,
+   "title": "Unique Binary Search Trees",
+   "slug": "unique-binary-search-trees",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0096-unique-binary-search-trees"
+  },
+  "unique-paths-ii:python3": {
+   "id": 63,
+   "title": "Unique Paths II",
+   "slug": "unique-paths-ii",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0063-unique-paths-ii"
+  },
+  "unique-paths:python3": {
+   "id": 62,
+   "title": "Unique Paths",
+   "slug": "unique-paths",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0062-unique-paths"
+  },
+  "edit-distance:python3": {
+   "id": 72,
+   "title": "Edit Distance",
+   "slug": "edit-distance",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0072-edit-distance"
+  },
+  "coin-change:python3": {
+   "id": 322,
+   "title": "Coin Change",
+   "slug": "coin-change",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0322-coin-change"
+  },
+  "coin-change-ii:python3": {
+   "id": 518,
+   "title": "Coin Change II",
+   "slug": "coin-change-ii",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0518-coin-change-ii"
+  },
+  "wildcard-matching:python3": {
+   "id": 44,
+   "title": "Wildcard Matching",
+   "slug": "wildcard-matching",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0044-wildcard-matching"
+  },
+  "house-robber-ii:python3": {
+   "id": 213,
+   "title": "House Robber II",
+   "slug": "house-robber-ii",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0213-house-robber-ii"
+  },
+  "palindrome-number:python3": {
+   "id": 9,
+   "title": "Palindrome Number",
+   "slug": "palindrome-number",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0009-palindrome-number"
+  },
+  "3sum:python3": {
+   "id": 15,
+   "title": "3Sum",
+   "slug": "3sum",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0015-3sum"
+  },
+  "strange-printer:python3": {
+   "id": 664,
+   "title": "Strange Printer",
+   "slug": "strange-printer",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0664-strange-printer"
+  },
+  "next-greater-element-i:python3": {
+   "id": 496,
+   "title": "Next Greater Element I",
+   "slug": "next-greater-element-i",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0496-next-greater-element-i"
+  },
+  "minimum-ascii-delete-sum-for-two-strings:python3": {
+   "id": 712,
+   "title": "Minimum ASCII Delete Sum for Two Strings",
+   "slug": "minimum-ascii-delete-sum-for-two-strings",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0712-minimum-ascii-delete-sum-for-two-strings"
+  },
+  "sort-list:python3": {
+   "id": 148,
+   "title": "Sort List",
+   "slug": "sort-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0148-sort-list"
+  },
+  "permutations:python3": {
+   "id": 46,
+   "title": "Permutations",
+   "slug": "permutations",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0046-permutations"
+  },
+  "largest-rectangle-in-histogram:python3": {
+   "id": 84,
+   "title": "Largest Rectangle in Histogram",
+   "slug": "largest-rectangle-in-histogram",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0084-largest-rectangle-in-histogram"
+  },
+  "word-break:python3": {
+   "id": 139,
+   "title": "Word Break",
+   "slug": "word-break",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0139-word-break"
+  },
+  "longest-valid-parentheses:python3": {
+   "id": 32,
+   "title": "Longest Valid Parentheses",
+   "slug": "longest-valid-parentheses",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0032-longest-valid-parentheses"
+  },
+  "reorder-list:python3": {
+   "id": 143,
+   "title": "Reorder List",
+   "slug": "reorder-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0143-reorder-list"
+  },
+  "remove-duplicate-letters:python3": {
+   "id": 316,
+   "title": "Remove Duplicate Letters",
+   "slug": "remove-duplicate-letters",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0316-remove-duplicate-letters"
+  },
+  "unique-binary-search-trees-ii:python3": {
+   "id": 95,
+   "title": "Unique Binary Search Trees II",
+   "slug": "unique-binary-search-trees-ii",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0095-unique-binary-search-trees-ii"
+  },
+  "trapping-rain-water:java": {
+   "id": 42,
+   "title": "Trapping Rain Water",
+   "slug": "trapping-rain-water",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0042-trapping-rain-water"
+  },
+  "trapping-rain-water:python3": {
+   "id": 42,
+   "title": "Trapping Rain Water",
+   "slug": "trapping-rain-water",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0042-trapping-rain-water"
+  },
+  "minimum-add-to-make-parentheses-valid:java": {
+   "id": 921,
+   "title": "Minimum Add to Make Parentheses Valid",
+   "slug": "minimum-add-to-make-parentheses-valid",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0921-minimum-add-to-make-parentheses-valid"
+  },
+  "minimum-add-to-make-parentheses-valid:python3": {
+   "id": 921,
+   "title": "Minimum Add to Make Parentheses Valid",
+   "slug": "minimum-add-to-make-parentheses-valid",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0921-minimum-add-to-make-parentheses-valid"
+  },
+  "final-prices-with-a-special-discount-in-a-shop:java": {
+   "id": 1475,
+   "title": "Final Prices With a Special Discount in a Shop",
+   "slug": "final-prices-with-a-special-discount-in-a-shop",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1475-final-prices-with-a-special-discount-in-a-shop"
+  },
+  "min-stack:java": {
+   "id": 155,
+   "title": "Min Stack",
+   "slug": "min-stack",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0155-min-stack"
+  },
+  "number-of-music-playlists:python3": {
+   "id": 920,
+   "title": "Number of Music Playlists",
+   "slug": "number-of-music-playlists",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0920-number-of-music-playlists"
+  },
+  "implement-stack-using-queues:python3": {
+   "id": 225,
+   "title": "Implement Stack using Queues",
+   "slug": "implement-stack-using-queues",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0225-implement-stack-using-queues"
+  },
+  "implement-stack-using-queues:java": {
+   "id": 225,
+   "title": "Implement Stack using Queues",
+   "slug": "implement-stack-using-queues",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0225-implement-stack-using-queues"
+  },
+  "unique-paths:java": {
+   "id": 62,
+   "title": "Unique Paths",
+   "slug": "unique-paths",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0062-unique-paths"
+  },
+  "minimum-path-sum:python3": {
+   "id": 64,
+   "title": "Minimum Path Sum",
+   "slug": "minimum-path-sum",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0064-minimum-path-sum"
+  },
+  "three-divisors:python3": {
+   "id": 1952,
+   "title": "Three Divisors",
+   "slug": "three-divisors",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/1952-three-divisors"
+  },
+  "search-a-2d-matrix:python3": {
+   "id": 74,
+   "title": "Search a 2D Matrix",
+   "slug": "search-a-2d-matrix",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0074-search-a-2d-matrix"
+  },
+  "reverse-words-in-a-string:python3": {
+   "id": 151,
+   "title": "Reverse Words in a String",
+   "slug": "reverse-words-in-a-string",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0151-reverse-words-in-a-string"
+  },
+  "reverse-words-in-a-string:java": {
+   "id": 151,
+   "title": "Reverse Words in a String",
+   "slug": "reverse-words-in-a-string",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0151-reverse-words-in-a-string"
+  },
+  "next-permutation:cpp": {
+   "id": 31,
+   "title": "Next Permutation",
+   "slug": "next-permutation",
+   "difficulty": "Medium",
+   "lang": "cpp",
+   "folder": "solutions/0031-next-permutation"
+  },
+  "fibonacci-number:python3": {
+   "id": 509,
+   "title": "Fibonacci Number",
+   "slug": "fibonacci-number",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0509-fibonacci-number"
+  },
+  "number-of-islands:python3": {
+   "id": 200,
+   "title": "Number of Islands",
+   "slug": "number-of-islands",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0200-number-of-islands"
+  },
+  "happy-number:python3": {
+   "id": 202,
+   "title": "Happy Number",
+   "slug": "happy-number",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0202-happy-number"
+  },
+  "remove-duplicates-from-sorted-array:python3": {
+   "id": 26,
+   "title": "Remove Duplicates from Sorted Array",
+   "slug": "remove-duplicates-from-sorted-array",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0026-remove-duplicates-from-sorted-array"
+  },
+  "search-in-rotated-sorted-array:python3": {
+   "id": 33,
+   "title": "Search in Rotated Sorted Array",
+   "slug": "search-in-rotated-sorted-array",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0033-search-in-rotated-sorted-array"
+  },
+  "big-countries:pythondata": {
+   "id": 595,
+   "title": "Big Countries",
+   "slug": "big-countries",
+   "difficulty": "Easy",
+   "lang": "pythondata",
+   "folder": "solutions/0595-big-countries"
+  },
+  "recyclable-and-low-fat-products:pythondata": {
+   "id": 1757,
+   "title": "Recyclable and Low Fat Products",
+   "slug": "recyclable-and-low-fat-products",
+   "difficulty": "Easy",
+   "lang": "pythondata",
+   "folder": "solutions/1757-recyclable-and-low-fat-products"
+  },
+  "symmetric-tree:python3": {
+   "id": 101,
+   "title": "Symmetric Tree",
+   "slug": "symmetric-tree",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0101-symmetric-tree"
+  },
+  "minimize-the-maximum-difference-of-pairs:python3": {
+   "id": 2616,
+   "title": "Minimize the Maximum Difference of Pairs",
+   "slug": "minimize-the-maximum-difference-of-pairs",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/2616-minimize-the-maximum-difference-of-pairs"
+  },
+  "search-in-rotated-sorted-array-ii:python3": {
+   "id": 81,
+   "title": "Search in Rotated Sorted Array II",
+   "slug": "search-in-rotated-sorted-array-ii",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0081-search-in-rotated-sorted-array-ii"
+  },
+  "clone-graph:python3": {
+   "id": 133,
+   "title": "Clone Graph",
+   "slug": "clone-graph",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0133-clone-graph"
+  },
+  "maximum-product-subarray:python3": {
+   "id": 152,
+   "title": "Maximum Product Subarray",
+   "slug": "maximum-product-subarray",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0152-maximum-product-subarray"
+  },
+  "longest-increasing-subsequence:python3": {
+   "id": 300,
+   "title": "Longest Increasing Subsequence",
+   "slug": "longest-increasing-subsequence",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0300-longest-increasing-subsequence"
+  },
+  "check-if-there-is-a-valid-partition-for-the-array:python3": {
+   "id": 2369,
+   "title": "Check if There is a Valid Partition For The Array",
+   "slug": "check-if-there-is-a-valid-partition-for-the-array",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/2369-check-if-there-is-a-valid-partition-for-the-array"
+  },
+  "minimum-string-length-after-removing-substrings:python3": {
+   "id": 2696,
+   "title": "Minimum String Length After Removing Substrings",
+   "slug": "minimum-string-length-after-removing-substrings",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/2696-minimum-string-length-after-removing-substrings"
+  },
+  "number-of-students-unable-to-eat-lunch:python3": {
+   "id": 1700,
+   "title": "Number of Students Unable to Eat Lunch",
+   "slug": "number-of-students-unable-to-eat-lunch",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/1700-number-of-students-unable-to-eat-lunch"
+  },
+  "remove-all-adjacent-duplicates-in-string:python3": {
+   "id": 1047,
+   "title": "Remove All Adjacent Duplicates In String",
+   "slug": "remove-all-adjacent-duplicates-in-string",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/1047-remove-all-adjacent-duplicates-in-string"
+  },
+  "kth-largest-element-in-an-array:python3": {
+   "id": 215,
+   "title": "Kth Largest Element in an Array",
+   "slug": "kth-largest-element-in-an-array",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0215-kth-largest-element-in-an-array"
+  },
+  "partition-list:python3": {
+   "id": 86,
+   "title": "Partition List",
+   "slug": "partition-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0086-partition-list"
+  },
+  "sliding-window-maximum:python3": {
+   "id": 239,
+   "title": "Sliding Window Maximum",
+   "slug": "sliding-window-maximum",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/0239-sliding-window-maximum"
+  },
+  "maximal-network-rank:python3": {
+   "id": 1615,
+   "title": "Maximal Network Rank",
+   "slug": "maximal-network-rank",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/1615-maximal-network-rank"
+  },
+  "sort-items-by-groups-respecting-dependencies:cpp": {
+   "id": 1203,
+   "title": "Sort Items by Groups Respecting Dependencies",
+   "slug": "sort-items-by-groups-respecting-dependencies",
+   "difficulty": "Hard",
+   "lang": "cpp",
+   "folder": "solutions/1203-sort-items-by-groups-respecting-dependencies"
+  },
+  "repeated-substring-pattern:cpp": {
+   "id": 459,
+   "title": "Repeated Substring Pattern",
+   "slug": "repeated-substring-pattern",
+   "difficulty": "Easy",
+   "lang": "cpp",
+   "folder": "solutions/0459-repeated-substring-pattern"
+  },
+  "excel-sheet-column-title:python3": {
+   "id": 168,
+   "title": "Excel Sheet Column Title",
+   "slug": "excel-sheet-column-title",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0168-excel-sheet-column-title"
+  },
+  "majority-element:python3": {
+   "id": 169,
+   "title": "Majority Element",
+   "slug": "majority-element",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0169-majority-element"
+  },
+  "isomorphic-strings:python3": {
+   "id": 205,
+   "title": "Isomorphic Strings",
+   "slug": "isomorphic-strings",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0205-isomorphic-strings"
+  },
+  "contains-duplicate:python3": {
+   "id": 217,
+   "title": "Contains Duplicate",
+   "slug": "contains-duplicate",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0217-contains-duplicate"
+  },
+  "contains-duplicate-ii:python3": {
+   "id": 219,
+   "title": "Contains Duplicate II",
+   "slug": "contains-duplicate-ii",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0219-contains-duplicate-ii"
+  },
+  "valid-anagram:python3": {
+   "id": 242,
+   "title": "Valid Anagram",
+   "slug": "valid-anagram",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0242-valid-anagram"
+  },
+  "missing-number:python3": {
+   "id": 268,
+   "title": "Missing Number",
+   "slug": "missing-number",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0268-missing-number"
+  },
+  "minimum-number-of-taps-to-open-to-water-a-garden:python3": {
+   "id": 1326,
+   "title": "Minimum Number of Taps to Open to Water a Garden",
+   "slug": "minimum-number-of-taps-to-open-to-water-a-garden",
+   "difficulty": "Hard",
+   "lang": "python3",
+   "folder": "solutions/1326-minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  "merge-intervals:python3": {
+   "id": 56,
+   "title": "Merge Intervals",
+   "slug": "merge-intervals",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0056-merge-intervals"
+  },
+  "merge-sorted-array:python3": {
+   "id": 88,
+   "title": "Merge Sorted Array",
+   "slug": "merge-sorted-array",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0088-merge-sorted-array"
+  },
+  "find-the-duplicate-number:python3": {
+   "id": 287,
+   "title": "Find the Duplicate Number",
+   "slug": "find-the-duplicate-number",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0287-find-the-duplicate-number"
+  },
+  "best-time-to-buy-and-sell-stock:python3": {
+   "id": 121,
+   "title": "Best Time to Buy and Sell Stock",
+   "slug": "best-time-to-buy-and-sell-stock",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0121-best-time-to-buy-and-sell-stock"
+  },
+  "house-robber:python3": {
+   "id": 198,
+   "title": "House Robber",
+   "slug": "house-robber",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0198-house-robber"
+  },
+  "copy-list-with-random-pointer:python3": {
+   "id": 138,
+   "title": "Copy List with Random Pointer",
+   "slug": "copy-list-with-random-pointer",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0138-copy-list-with-random-pointer"
+  },
+  "diameter-of-binary-tree:python3": {
+   "id": 543,
+   "title": "Diameter of Binary Tree",
+   "slug": "diameter-of-binary-tree",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0543-diameter-of-binary-tree"
+  },
+  "find-minimum-in-rotated-sorted-array:python3": {
+   "id": 153,
+   "title": "Find Minimum in Rotated Sorted Array",
+   "slug": "find-minimum-in-rotated-sorted-array",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0153-find-minimum-in-rotated-sorted-array"
+  },
+  "split-linked-list-in-parts:python3": {
+   "id": 725,
+   "title": "Split Linked List in Parts",
+   "slug": "split-linked-list-in-parts",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0725-split-linked-list-in-parts"
+  },
+  "odd-even-linked-list:python3": {
+   "id": 328,
+   "title": "Odd Even Linked List",
+   "slug": "odd-even-linked-list",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0328-odd-even-linked-list"
+  },
+  "subsets:python3": {
+   "id": 78,
+   "title": "Subsets",
+   "slug": "subsets",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0078-subsets"
+  },
+  "combination-sum:python3": {
+   "id": 39,
+   "title": "Combination Sum",
+   "slug": "combination-sum",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0039-combination-sum"
+  },
+  "reverse-string:python3": {
+   "id": 344,
+   "title": "Reverse String",
+   "slug": "reverse-string",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0344-reverse-string"
+  },
+  "remove-outermost-parentheses:java": {
+   "id": 1021,
+   "title": "Remove Outermost Parentheses",
+   "slug": "remove-outermost-parentheses",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1021-remove-outermost-parentheses"
+  },
+  "container-with-most-water:python3": {
+   "id": 11,
+   "title": "Container With Most Water",
+   "slug": "container-with-most-water",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0011-container-with-most-water"
+  },
+  "two-sum:python3": {
+   "id": 1,
+   "title": "Two Sum",
+   "slug": "two-sum",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0001-two-sum"
+  },
+  "find-mode-in-binary-search-tree:python3": {
+   "id": 501,
+   "title": "Find Mode in Binary Search Tree",
+   "slug": "find-mode-in-binary-search-tree",
+   "difficulty": "Easy",
+   "lang": "python3",
+   "folder": "solutions/0501-find-mode-in-binary-search-tree"
+  },
+  "product-of-array-except-self:python3": {
+   "id": 238,
+   "title": "Product of Array Except Self",
+   "slug": "product-of-array-except-self",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0238-product-of-array-except-self"
+  },
+  "maximum-subarray:python3": {
+   "id": 53,
+   "title": "Maximum Subarray",
+   "slug": "maximum-subarray",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0053-maximum-subarray"
+  },
+  "longest-substring-without-repeating-characters:python3": {
+   "id": 3,
+   "title": "Longest Substring Without Repeating Characters",
+   "slug": "longest-substring-without-repeating-characters",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0003-longest-substring-without-repeating-characters"
+  },
+  "count-nodes-equal-to-average-of-subtree:python3": {
+   "id": 2265,
+   "title": "Count Nodes Equal to Average of Subtree",
+   "slug": "count-nodes-equal-to-average-of-subtree",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/2265-count-nodes-equal-to-average-of-subtree"
+  },
+  "last-moment-before-all-ants-fall-out-of-a-plank:java": {
+   "id": 1503,
+   "title": "Last Moment Before All Ants Fall Out of a Plank",
+   "slug": "last-moment-before-all-ants-fall-out-of-a-plank",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1503-last-moment-before-all-ants-fall-out-of-a-plank"
+  },
+  "find-the-winner-of-an-array-game:java": {
+   "id": 1535,
+   "title": "Find the Winner of an Array Game",
+   "slug": "find-the-winner-of-an-array-game",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1535-find-the-winner-of-an-array-game"
+  },
+  "repeated-string-match:java": {
+   "id": 686,
+   "title": "Repeated String Match",
+   "slug": "repeated-string-match",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0686-repeated-string-match"
+  },
+  "valid-anagram:java": {
+   "id": 242,
+   "title": "Valid Anagram",
+   "slug": "valid-anagram",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0242-valid-anagram"
+  },
+  "pascals-triangle:java": {
+   "id": 118,
+   "title": "Pascal's Triangle",
+   "slug": "pascals-triangle",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0118-pascals-triangle"
+  },
+  "next-permutation:java": {
+   "id": 31,
+   "title": "Next Permutation",
+   "slug": "next-permutation",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0031-next-permutation"
+  },
+  "linked-list-cycle:java": {
+   "id": 141,
+   "title": "Linked List Cycle",
+   "slug": "linked-list-cycle",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0141-linked-list-cycle"
+  },
+  "linked-list-cycle-ii:java": {
+   "id": 142,
+   "title": "Linked List Cycle II",
+   "slug": "linked-list-cycle-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0142-linked-list-cycle-ii"
+  },
+  "frequency-of-the-most-frequent-element:java": {
+   "id": 1838,
+   "title": "Frequency of the Most Frequent Element",
+   "slug": "frequency-of-the-most-frequent-element",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1838-frequency-of-the-most-frequent-element"
+  },
+  "reduction-operations-to-make-the-array-elements-equal:java": {
+   "id": 1887,
+   "title": "Reduction Operations to Make the Array Elements Equal",
+   "slug": "reduction-operations-to-make-the-array-elements-equal",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1887-reduction-operations-to-make-the-array-elements-equal"
+  },
+  "minimum-amount-of-time-to-collect-garbage:java": {
+   "id": 2391,
+   "title": "Minimum Amount of Time to Collect Garbage",
+   "slug": "minimum-amount-of-time-to-collect-garbage",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2391-minimum-amount-of-time-to-collect-garbage"
+  },
+  "reverse-nodes-in-k-group:java": {
+   "id": 25,
+   "title": "Reverse Nodes in k-Group",
+   "slug": "reverse-nodes-in-k-group",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0025-reverse-nodes-in-k-group"
+  },
+  "count-nice-pairs-in-an-array:java": {
+   "id": 1814,
+   "title": "Count Nice Pairs in an Array",
+   "slug": "count-nice-pairs-in-an-array",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1814-count-nice-pairs-in-an-array"
+  },
+  "diagonal-traverse-ii:java": {
+   "id": 1424,
+   "title": "Diagonal Traverse II",
+   "slug": "diagonal-traverse-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1424-diagonal-traverse-ii"
+  },
+  "arithmetic-subarrays:java": {
+   "id": 1630,
+   "title": "Arithmetic Subarrays",
+   "slug": "arithmetic-subarrays",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1630-arithmetic-subarrays"
+  },
+  "maximum-number-of-coins-you-can-get:java": {
+   "id": 1561,
+   "title": "Maximum Number of Coins You Can Get",
+   "slug": "maximum-number-of-coins-you-can-get",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1561-maximum-number-of-coins-you-can-get"
+  },
+  "sum-of-absolute-differences-in-a-sorted-array:java": {
+   "id": 1685,
+   "title": "Sum of Absolute Differences in a Sorted Array",
+   "slug": "sum-of-absolute-differences-in-a-sorted-array",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1685-sum-of-absolute-differences-in-a-sorted-array"
+  },
+  "largest-submatrix-with-rearrangements:java": {
+   "id": 1727,
+   "title": "Largest Submatrix With Rearrangements",
+   "slug": "largest-submatrix-with-rearrangements",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1727-largest-submatrix-with-rearrangements"
+  },
+  "knight-dialer:java": {
+   "id": 935,
+   "title": "Knight Dialer",
+   "slug": "knight-dialer",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0935-knight-dialer"
+  },
+  "number-of-ways-to-divide-a-long-corridor:java": {
+   "id": 2147,
+   "title": "Number of Ways to Divide a Long Corridor",
+   "slug": "number-of-ways-to-divide-a-long-corridor",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/2147-number-of-ways-to-divide-a-long-corridor"
+  },
+  "number-of-1-bits:java": {
+   "id": 191,
+   "title": "Number of 1 Bits",
+   "slug": "number-of-1-bits",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0191-number-of-1-bits"
+  },
+  "minimum-one-bit-operations-to-make-integers-zero:java": {
+   "id": 1611,
+   "title": "Minimum One Bit Operations to Make Integers Zero",
+   "slug": "minimum-one-bit-operations-to-make-integers-zero",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/1611-minimum-one-bit-operations-to-make-integers-zero"
+  },
+  "check-if-two-string-arrays-are-equivalent:java": {
+   "id": 1662,
+   "title": "Check If Two String Arrays are Equivalent",
+   "slug": "check-if-two-string-arrays-are-equivalent",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1662-check-if-two-string-arrays-are-equivalent"
+  },
+  "find-words-that-can-be-formed-by-characters:java": {
+   "id": 1160,
+   "title": "Find Words That Can Be Formed by Characters",
+   "slug": "find-words-that-can-be-formed-by-characters",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1160-find-words-that-can-be-formed-by-characters"
+  },
+  "minimum-time-visiting-all-points:java": {
+   "id": 1266,
+   "title": "Minimum Time Visiting All Points",
+   "slug": "minimum-time-visiting-all-points",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1266-minimum-time-visiting-all-points"
+  },
+  "largest-3-same-digit-number-in-string:java": {
+   "id": 2264,
+   "title": "Largest 3-Same-Digit Number in String",
+   "slug": "largest-3-same-digit-number-in-string",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2264-largest-3-same-digit-number-in-string"
+  },
+  "count-of-matches-in-tournament:java": {
+   "id": 1688,
+   "title": "Count of Matches in Tournament",
+   "slug": "count-of-matches-in-tournament",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1688-count-of-matches-in-tournament"
+  },
+  "calculate-money-in-leetcode-bank:java": {
+   "id": 1716,
+   "title": "Calculate Money in Leetcode Bank",
+   "slug": "calculate-money-in-leetcode-bank",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1716-calculate-money-in-leetcode-bank"
+  },
+  "largest-odd-number-in-string:java": {
+   "id": 1903,
+   "title": "Largest Odd Number in String",
+   "slug": "largest-odd-number-in-string",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1903-largest-odd-number-in-string"
+  },
+  "construct-string-from-binary-tree:java": {
+   "id": 606,
+   "title": "Construct String from Binary Tree",
+   "slug": "construct-string-from-binary-tree",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0606-construct-string-from-binary-tree"
+  },
+  "transpose-matrix:java": {
+   "id": 867,
+   "title": "Transpose Matrix",
+   "slug": "transpose-matrix",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0867-transpose-matrix"
+  },
+  "element-appearing-more-than-25-in-sorted-array:java": {
+   "id": 1287,
+   "title": "Element Appearing More Than 25% In Sorted Array",
+   "slug": "element-appearing-more-than-25-in-sorted-array",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1287-element-appearing-more-than-25-in-sorted-array"
+  },
+  "maximum-product-of-two-elements-in-an-array:java": {
+   "id": 1464,
+   "title": "Maximum Product of Two Elements in an Array",
+   "slug": "maximum-product-of-two-elements-in-an-array",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1464-maximum-product-of-two-elements-in-an-array"
+  },
+  "special-positions-in-a-binary-matrix:java": {
+   "id": 1582,
+   "title": "Special Positions in a Binary Matrix",
+   "slug": "special-positions-in-a-binary-matrix",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1582-special-positions-in-a-binary-matrix"
+  },
+  "difference-between-ones-and-zeros-in-row-and-column:java": {
+   "id": 2482,
+   "title": "Difference Between Ones and Zeros in Row and Column",
+   "slug": "difference-between-ones-and-zeros-in-row-and-column",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2482-difference-between-ones-and-zeros-in-row-and-column"
+  },
+  "design-a-food-rating-system:java": {
+   "id": 2353,
+   "title": "Design a Food Rating System",
+   "slug": "design-a-food-rating-system",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2353-design-a-food-rating-system"
+  },
+  "maximum-product-difference-between-two-pairs:java": {
+   "id": 1913,
+   "title": "Maximum Product Difference Between Two Pairs",
+   "slug": "maximum-product-difference-between-two-pairs",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1913-maximum-product-difference-between-two-pairs"
+  },
+  "two-sum:java": {
+   "id": 1,
+   "title": "Two Sum",
+   "slug": "two-sum",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0001-two-sum"
+  },
+  "3sum:java": {
+   "id": 15,
+   "title": "3Sum",
+   "slug": "3sum",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0015-3sum"
+  },
+  "majority-element:java": {
+   "id": 169,
+   "title": "Majority Element",
+   "slug": "majority-element",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0169-majority-element"
+  },
+  "rotate-string:java": {
+   "id": 796,
+   "title": "Rotate String",
+   "slug": "rotate-string",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0796-rotate-string"
+  },
+  "reverse-string:java": {
+   "id": 344,
+   "title": "Reverse String",
+   "slug": "reverse-string",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0344-reverse-string"
+  },
+  "number-of-bit-changes-to-make-two-integers-equal:java": {
+   "id": 3226,
+   "title": "Number of Bit Changes to Make Two Integers Equal",
+   "slug": "number-of-bit-changes-to-make-two-integers-equal",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3226-number-of-bit-changes-to-make-two-integers-equal"
+  },
+  "vowels-game-in-a-string:java": {
+   "id": 3227,
+   "title": "Vowels Game in a String",
+   "slug": "vowels-game-in-a-string",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3227-vowels-game-in-a-string"
+  },
+  "maximum-number-of-operations-to-move-ones-to-the-end:java": {
+   "id": 3228,
+   "title": "Maximum Number of Operations to Move Ones to the End",
+   "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3228-maximum-number-of-operations-to-move-ones-to-the-end"
+  },
+  "minimum-operations-to-make-array-equal-to-target:java": {
+   "id": 3229,
+   "title": "Minimum Operations to Make Array Equal to Target",
+   "slug": "minimum-operations-to-make-array-equal-to-target",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/3229-minimum-operations-to-make-array-equal-to-target"
+  },
+  "build-a-matrix-with-conditions:java": {
+   "id": 2392,
+   "title": "Build a Matrix With Conditions",
+   "slug": "build-a-matrix-with-conditions",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/2392-build-a-matrix-with-conditions"
+  },
+  "sort-the-people:java": {
+   "id": 2418,
+   "title": "Sort the People",
+   "slug": "sort-the-people",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2418-sort-the-people"
+  },
+  "sort-array-by-increasing-frequency:java": {
+   "id": 1636,
+   "title": "Sort Array by Increasing Frequency",
+   "slug": "sort-array-by-increasing-frequency",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1636-sort-array-by-increasing-frequency"
+  },
+  "merge-sorted-array:java": {
+   "id": 88,
+   "title": "Merge Sorted Array",
+   "slug": "merge-sorted-array",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0088-merge-sorted-array"
+  },
+  "maximum-sum-of-distinct-subarrays-with-length-k:java": {
+   "id": 2461,
+   "title": "Maximum Sum of Distinct Subarrays With Length K",
+   "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2461-maximum-sum-of-distinct-subarrays-with-length-k"
+  },
+  "take-k-of-each-character-from-left-and-right:java": {
+   "id": 2516,
+   "title": "Take K of Each Character From Left and Right",
+   "slug": "take-k-of-each-character-from-left-and-right",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2516-take-k-of-each-character-from-left-and-right"
+  },
+  "counting-words-with-a-given-prefix:java": {
+   "id": 2185,
+   "title": "Counting Words With a Given Prefix",
+   "slug": "counting-words-with-a-given-prefix",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2185-counting-words-with-a-given-prefix"
+  },
+  "count-servers-that-communicate:python3": {
+   "id": 1267,
+   "title": "Count Servers that Communicate",
+   "slug": "count-servers-that-communicate",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/1267-count-servers-that-communicate"
+  },
+  "map-of-highest-peak:python3": {
+   "id": 1765,
+   "title": "Map of Highest Peak",
+   "slug": "map-of-highest-peak",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/1765-map-of-highest-peak"
+  },
+  "find-eventual-safe-states:python3": {
+   "id": 802,
+   "title": "Find Eventual Safe States",
+   "slug": "find-eventual-safe-states",
+   "difficulty": "Medium",
+   "lang": "python3",
+   "folder": "solutions/0802-find-eventual-safe-states"
+  },
+  "special-array-i:java": {
+   "id": 3151,
+   "title": "Special Array I",
+   "slug": "special-array-i",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3151-special-array-i"
+  },
+  "find-valid-pair-of-adjacent-digits-in-string:java": {
+   "id": 3438,
+   "title": "Find Valid Pair of Adjacent Digits in String",
+   "slug": "find-valid-pair-of-adjacent-digits-in-string",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3438-find-valid-pair-of-adjacent-digits-in-string"
+  },
+  "longest-strictly-increasing-or-strictly-decreasing-subarray:java": {
+   "id": 3105,
+   "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+   "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray"
+  },
+  "check-if-array-is-sorted-and-rotated:java": {
+   "id": 1752,
+   "title": "Check if Array Is Sorted and Rotated",
+   "slug": "check-if-array-is-sorted-and-rotated",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1752-check-if-array-is-sorted-and-rotated"
+  },
+  "maximum-ascending-subarray-sum:java": {
+   "id": 1800,
+   "title": "Maximum Ascending Subarray Sum",
+   "slug": "maximum-ascending-subarray-sum",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1800-maximum-ascending-subarray-sum"
+  },
+  "check-if-one-string-swap-can-make-strings-equal:java": {
+   "id": 1790,
+   "title": "Check if One String Swap Can Make Strings Equal",
+   "slug": "check-if-one-string-swap-can-make-strings-equal",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1790-check-if-one-string-swap-can-make-strings-equal"
+  },
+  "tuple-with-same-product:java": {
+   "id": 1726,
+   "title": "Tuple with Same Product",
+   "slug": "tuple-with-same-product",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1726-tuple-with-same-product"
+  },
+  "design-a-number-container-system:java": {
+   "id": 2349,
+   "title": "Design a Number Container System",
+   "slug": "design-a-number-container-system",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2349-design-a-number-container-system"
+  },
+  "binary-tree-postorder-traversal:java": {
+   "id": 145,
+   "title": "Binary Tree Postorder Traversal",
+   "slug": "binary-tree-postorder-traversal",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0145-binary-tree-postorder-traversal"
+  },
+  "maximum-depth-of-binary-tree:java": {
+   "id": 104,
+   "title": "Maximum Depth of Binary Tree",
+   "slug": "maximum-depth-of-binary-tree",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0104-maximum-depth-of-binary-tree"
+  },
+  "longest-common-prefix:java": {
+   "id": 14,
+   "title": "Longest Common Prefix",
+   "slug": "longest-common-prefix",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0014-longest-common-prefix"
+  },
+  "isomorphic-strings:java": {
+   "id": 205,
+   "title": "Isomorphic Strings",
+   "slug": "isomorphic-strings",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0205-isomorphic-strings"
+  },
+  "minimum-operations-to-make-array-values-equal-to-k:java": {
+   "id": 3375,
+   "title": "Minimum Operations to Make Array Values Equal to K",
+   "slug": "minimum-operations-to-make-array-values-equal-to-k",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3375-minimum-operations-to-make-array-values-equal-to-k"
+  },
+  "find-minimum-time-to-reach-last-room-i:java": {
+   "id": 3341,
+   "title": "Find Minimum Time to Reach Last Room I",
+   "slug": "find-minimum-time-to-reach-last-room-i",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3341-find-minimum-time-to-reach-last-room-i"
+  },
+  "find-minimum-time-to-reach-last-room-ii:java": {
+   "id": 3342,
+   "title": "Find Minimum Time to Reach Last Room II",
+   "slug": "find-minimum-time-to-reach-last-room-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3342-find-minimum-time-to-reach-last-room-ii"
+  },
+  "count-number-of-balanced-permutations:java": {
+   "id": 3343,
+   "title": "Count Number of Balanced Permutations",
+   "slug": "count-number-of-balanced-permutations",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/3343-count-number-of-balanced-permutations"
+  },
+  "minimum-equal-sum-of-two-arrays-after-replacing-zeros:java": {
+   "id": 2918,
+   "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+   "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+  },
+  "finding-3-digit-even-numbers:java": {
+   "id": 2094,
+   "title": "Finding 3-Digit Even Numbers",
+   "slug": "finding-3-digit-even-numbers",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2094-finding-3-digit-even-numbers"
+  },
+  "total-characters-in-string-after-transformations-i:java": {
+   "id": 3335,
+   "title": "Total Characters in String After Transformations I",
+   "slug": "total-characters-in-string-after-transformations-i",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3335-total-characters-in-string-after-transformations-i"
+  },
+  "total-characters-in-string-after-transformations-ii:java": {
+   "id": 3337,
+   "title": "Total Characters in String After Transformations II",
+   "slug": "total-characters-in-string-after-transformations-ii",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/3337-total-characters-in-string-after-transformations-ii"
+  },
+  "longest-unequal-adjacent-groups-subsequence-i:java": {
+   "id": 2900,
+   "title": "Longest Unequal Adjacent Groups Subsequence I",
+   "slug": "longest-unequal-adjacent-groups-subsequence-i",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2900-longest-unequal-adjacent-groups-subsequence-i"
+  },
+  "sum-of-k-mirror-numbers:java": {
+   "id": 2081,
+   "title": "Sum of k-Mirror Numbers",
+   "slug": "sum-of-k-mirror-numbers",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/2081-sum-of-k-mirror-numbers"
+  },
+  "find-all-k-distant-indices-in-an-array:java": {
+   "id": 2200,
+   "title": "Find All K-Distant Indices in an Array",
+   "slug": "find-all-k-distant-indices-in-an-array",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2200-find-all-k-distant-indices-in-an-array"
+  },
+  "maximum-score-from-removing-substrings:java": {
+   "id": 1717,
+   "title": "Maximum Score From Removing Substrings",
+   "slug": "maximum-score-from-removing-substrings",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1717-maximum-score-from-removing-substrings"
+  },
+  "check-if-digits-are-equal-in-string-after-operations-i:java": {
+   "id": 3461,
+   "title": "Check If Digits Are Equal in String After Operations I",
+   "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3461-check-if-digits-are-equal-in-string-after-operations-i"
+  },
+  "minimum-size-subarray-sum:java": {
+   "id": 209,
+   "title": "Minimum Size Subarray Sum",
+   "slug": "minimum-size-subarray-sum",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0209-minimum-size-subarray-sum"
+  },
+  "next-greater-numerically-balanced-number:java": {
+   "id": 2048,
+   "title": "Next Greater Numerically Balanced Number",
+   "slug": "next-greater-numerically-balanced-number",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2048-next-greater-numerically-balanced-number"
+  },
+  "make-array-elements-equal-to-zero:java": {
+   "id": 3354,
+   "title": "Make Array Elements Equal to Zero",
+   "slug": "make-array-elements-equal-to-zero",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/3354-make-array-elements-equal-to-zero"
+  },
+  "keep-multiplying-found-values-by-two:java": {
+   "id": 2154,
+   "title": "Keep Multiplying Found Values by Two",
+   "slug": "keep-multiplying-found-values-by-two",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2154-keep-multiplying-found-values-by-two"
+  },
+  "set-intersection-size-at-least-two:java": {
+   "id": 757,
+   "title": "Set Intersection Size At Least Two",
+   "slug": "set-intersection-size-at-least-two",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0757-set-intersection-size-at-least-two"
+  },
+  "binary-prefix-divisible-by-5:java": {
+   "id": 1018,
+   "title": "Binary Prefix Divisible By 5",
+   "slug": "binary-prefix-divisible-by-5",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1018-binary-prefix-divisible-by-5"
+  },
+  "count-number-of-trapezoids-ii:java": {
+   "id": 3625,
+   "title": "Count Number of Trapezoids II",
+   "slug": "count-number-of-trapezoids-ii",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/3625-count-number-of-trapezoids-ii"
+  },
+  "maximum-points-you-can-obtain-from-cards:java": {
+   "id": 1423,
+   "title": "Maximum Points You Can Obtain from Cards",
+   "slug": "maximum-points-you-can-obtain-from-cards",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1423-maximum-points-you-can-obtain-from-cards"
+  },
+  "count-partitions-with-max-min-difference-at-most-k:java": {
+   "id": 3578,
+   "title": "Count Partitions With Max-Min Difference at Most K",
+   "slug": "count-partitions-with-max-min-difference-at-most-k",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3578-count-partitions-with-max-min-difference-at-most-k"
+  },
+  "count-square-sum-triples:java": {
+   "id": 1925,
+   "title": "Count Square Sum Triples",
+   "slug": "count-square-sum-triples",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/1925-count-square-sum-triples"
+  },
+  "count-special-triplets:java": {
+   "id": 3583,
+   "title": "Count Special Triplets",
+   "slug": "count-special-triplets",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3583-count-special-triplets"
+  },
+  "count-the-number-of-computer-unlocking-permutations:java": {
+   "id": 3577,
+   "title": "Count the Number of Computer Unlocking Permutations",
+   "slug": "count-the-number-of-computer-unlocking-permutations",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3577-count-the-number-of-computer-unlocking-permutations"
+  },
+  "check-if-strings-can-be-made-equal-with-operations-ii:java": {
+   "id": 2840,
+   "title": "Check if Strings Can be Made Equal With Operations II",
+   "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2840-check-if-strings-can-be-made-equal-with-operations-ii"
+  },
+  "lexicographically-smallest-generated-string:java": {
+   "id": 3474,
+   "title": "Lexicographically Smallest Generated String",
+   "slug": "lexicographically-smallest-generated-string",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/3474-lexicographically-smallest-generated-string"
+  },
+  "remove-element:java": {
+   "id": 27,
+   "title": "Remove Element",
+   "slug": "remove-element",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0027-remove-element"
+  },
+  "remove-duplicates-from-sorted-array:java": {
+   "id": 26,
+   "title": "Remove Duplicates from Sorted Array",
+   "slug": "remove-duplicates-from-sorted-array",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0026-remove-duplicates-from-sorted-array"
+  },
+  "remove-duplicates-from-sorted-array-ii:java": {
+   "id": 80,
+   "title": "Remove Duplicates from Sorted Array II",
+   "slug": "remove-duplicates-from-sorted-array-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0080-remove-duplicates-from-sorted-array-ii"
+  },
+  "rotate-array:java": {
+   "id": 189,
+   "title": "Rotate Array",
+   "slug": "rotate-array",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0189-rotate-array"
+  },
+  "best-time-to-buy-and-sell-stock-ii:java": {
+   "id": 122,
+   "title": "Best Time to Buy and Sell Stock II",
+   "slug": "best-time-to-buy-and-sell-stock-ii",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0122-best-time-to-buy-and-sell-stock-ii"
+  },
+  "jump-game:java": {
+   "id": 55,
+   "title": "Jump Game",
+   "slug": "jump-game",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0055-jump-game"
+  },
+  "valid-parentheses:java": {
+   "id": 20,
+   "title": "Valid Parentheses",
+   "slug": "valid-parentheses",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0020-valid-parentheses"
+  },
+  "valid-palindrome:java": {
+   "id": 125,
+   "title": "Valid Palindrome",
+   "slug": "valid-palindrome",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0125-valid-palindrome"
+  },
+  "is-subsequence:java": {
+   "id": 392,
+   "title": "Is Subsequence",
+   "slug": "is-subsequence",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0392-is-subsequence"
+  },
+  "valid-parenthesis-string:java": {
+   "id": 678,
+   "title": "Valid Parenthesis String",
+   "slug": "valid-parenthesis-string",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0678-valid-parenthesis-string"
+  },
+  "score-of-parentheses:java": {
+   "id": 856,
+   "title": "Score of Parentheses",
+   "slug": "score-of-parentheses",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0856-score-of-parentheses"
+  },
+  "two-sum-ii-input-array-is-sorted:java": {
+   "id": 167,
+   "title": "Two Sum II - Input Array Is Sorted",
+   "slug": "two-sum-ii-input-array-is-sorted",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0167-two-sum-ii-input-array-is-sorted"
+  },
+  "container-with-most-water:java": {
+   "id": 11,
+   "title": "Container With Most Water",
+   "slug": "container-with-most-water",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0011-container-with-most-water"
+  },
+  "h-index:java": {
+   "id": 274,
+   "title": "H-Index",
+   "slug": "h-index",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0274-h-index"
+  },
+  "contains-duplicate:java": {
+   "id": 217,
+   "title": "Contains Duplicate",
+   "slug": "contains-duplicate",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0217-contains-duplicate"
+  },
+  "remove-invalid-parentheses:java": {
+   "id": 301,
+   "title": "Remove Invalid Parentheses",
+   "slug": "remove-invalid-parentheses",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/0301-remove-invalid-parentheses"
+  },
+  "ransom-note:java": {
+   "id": 383,
+   "title": "Ransom Note",
+   "slug": "ransom-note",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0383-ransom-note"
+  },
+  "maximum-average-subarray-i:java": {
+   "id": 643,
+   "title": "Maximum Average Subarray I",
+   "slug": "maximum-average-subarray-i",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0643-maximum-average-subarray-i"
+  },
+  "minimum-insertions-to-balance-a-parentheses-string:java": {
+   "id": 1541,
+   "title": "Minimum Insertions to Balance a Parentheses String",
+   "slug": "minimum-insertions-to-balance-a-parentheses-string",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/1541-minimum-insertions-to-balance-a-parentheses-string"
+  },
+  "minimum-sum-of-squared-difference:java": {
+   "id": 2333,
+   "title": "Minimum Sum of Squared Difference",
+   "slug": "minimum-sum-of-squared-difference",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/2333-minimum-sum-of-squared-difference"
+  },
+  "evaluate-reverse-polish-notation:java": {
+   "id": 150,
+   "title": "Evaluate Reverse Polish Notation",
+   "slug": "evaluate-reverse-polish-notation",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0150-evaluate-reverse-polish-notation"
+  },
+  "copy-list-with-random-pointer:java": {
+   "id": 138,
+   "title": "Copy List with Random Pointer",
+   "slug": "copy-list-with-random-pointer",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0138-copy-list-with-random-pointer"
+  },
+  "apply-operations-on-array-to-maximize-sum-of-squares:java": {
+   "id": 2897,
+   "title": "Apply Operations on Array to Maximize Sum of Squares",
+   "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+   "difficulty": "Hard",
+   "lang": "java",
+   "folder": "solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares"
+  },
+  "maximum-alternating-sum-of-squares:java": {
+   "id": 3727,
+   "title": "Maximum Alternating Sum of Squares",
+   "slug": "maximum-alternating-sum-of-squares",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3727-maximum-alternating-sum-of-squares"
+  }
+ }
+}
