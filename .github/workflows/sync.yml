@@ -17,10 +17,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Configure git
+           - name: Configure git
         run: |
-          git config user.name "leetcode-sync-bot"
-          git config user.email "leetcode-sync-bot@users.noreply.github.com"
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
       - name: Sync submissions
         env:
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
