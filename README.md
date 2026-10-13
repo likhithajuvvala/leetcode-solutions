@@ -2,8 +2,6 @@
 
 **Solved:** 282 (Easy 112 / Medium 139 / Hard 31)
 
-_Last synced: 2026-10-13 16:06 UTC_
-
 | # | Title | Difficulty | Language |
 |---|---|---|---|
 | 1 | [Two Sum](solutions/0001-two-sum/) | Easy | cpp |
