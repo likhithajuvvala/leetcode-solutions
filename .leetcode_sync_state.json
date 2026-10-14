@@ -442,7 +442,12 @@
   2172025299,
   2172027439,
   2172050632,
-  2172058690
+  2172058690,
+  2172483268,
+  2172490530,
+  2172497272,
+  2172521961,
+  2172522588
  ],
  "problems": {
   "binary-tree-inorder-traversal:java": {
@@ -2740,6 +2745,46 @@
    "difficulty": "Medium",
    "lang": "java",
    "folder": "solutions/0918-maximum-sum-circular-subarray"
+  },
+  "search-insert-position:java": {
+   "id": 35,
+   "title": "Search Insert Position",
+   "slug": "search-insert-position",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0035-search-insert-position"
+  },
+  "search-a-2d-matrix:java": {
+   "id": 74,
+   "title": "Search a 2D Matrix",
+   "slug": "search-a-2d-matrix",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0074-search-a-2d-matrix"
+  },
+  "find-peak-element:java": {
+   "id": 162,
+   "title": "Find Peak Element",
+   "slug": "find-peak-element",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0162-find-peak-element"
+  },
+  "find-first-and-last-position-of-element-in-sorted-array:java": {
+   "id": 34,
+   "title": "Find First and Last Position of Element in Sorted Array",
+   "slug": "find-first-and-last-position-of-element-in-sorted-array",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0034-find-first-and-last-position-of-element-in-sorted-array"
+  },
+  "search-in-rotated-sorted-array:java": {
+   "id": 33,
+   "title": "Search in Rotated Sorted Array",
+   "slug": "search-in-rotated-sorted-array",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0033-search-in-rotated-sorted-array"
   }
  }
 }

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Solved:** 287 (Easy 114 / Medium 142 / Hard 31)
+**Solved:** 292 (Easy 115 / Medium 146 / Hard 31)
 
 | # | Title | Difficulty | Language |
 |---|---|---|---|
@@ -36,6 +36,9 @@
 | 31 | [Next Permutation](solutions/0031-next-permutation/) | Medium | java |
 | 32 | [Longest Valid Parentheses](solutions/0032-longest-valid-parentheses/) | Hard | python3 |
 | 33 | [Search in Rotated Sorted Array](solutions/0033-search-in-rotated-sorted-array/) | Medium | python3 |
+| 33 | [Search in Rotated Sorted Array](solutions/0033-search-in-rotated-sorted-array/) | Medium | java |
+| 34 | [Find First and Last Position of Element in Sorted Array](solutions/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | java |
+| 35 | [Search Insert Position](solutions/0035-search-insert-position/) | Easy | java |
 | 37 | [Sudoku Solver](solutions/0037-sudoku-solver/) | Hard | java |
 | 39 | [Combination Sum](solutions/0039-combination-sum/) | Medium | java |
 | 39 | [Combination Sum](solutions/0039-combination-sum/) | Medium | python3 |
@@ -63,6 +66,7 @@
 | 72 | [Edit Distance](solutions/0072-edit-distance/) | Medium | python3 |
 | 73 | [Set Matrix Zeroes](solutions/0073-set-matrix-zeroes/) | Medium | java |
 | 74 | [Search a 2D Matrix](solutions/0074-search-a-2d-matrix/) | Medium | python3 |
+| 74 | [Search a 2D Matrix](solutions/0074-search-a-2d-matrix/) | Medium | java |
 | 75 | [Sort Colors](solutions/0075-sort-colors/) | Medium | java |
 | 78 | [Subsets](solutions/0078-subsets/) | Medium | python3 |
 | 80 | [Remove Duplicates from Sorted Array II](solutions/0080-remove-duplicates-from-sorted-array-ii/) | Medium | java |
@@ -109,6 +113,7 @@
 | 155 | [Min Stack](solutions/0155-min-stack/) | Medium | java |
 | 160 | [Intersection of Two Linked Lists](solutions/0160-intersection-of-two-linked-lists/) | Easy | java |
 | 160 | [Intersection of Two Linked Lists](solutions/0160-intersection-of-two-linked-lists/) | Easy | python3 |
+| 162 | [Find Peak Element](solutions/0162-find-peak-element/) | Medium | java |
 | 167 | [Two Sum II - Input Array Is Sorted](solutions/0167-two-sum-ii-input-array-is-sorted/) | Medium | java |
 | 168 | [Excel Sheet Column Title](solutions/0168-excel-sheet-column-title/) | Easy | python3 |
 | 169 | [Majority Element](solutions/0169-majority-element/) | Easy | python3 |
