@@ -1,52 +1,26 @@
 class Solution {
     public String convert(String s, int numRows) {
-   
-        if (numRows == 1) {
-            return s;
+        if(numRows==1) return s;
+        StringBuilder[] rows = new StringBuilder[numRows];
+        for(int i=0;i<numRows;i++){
+            rows[i]=new StringBuilder();
         }
-        
-        int n = s.length();
-        int sections = (int) Math.ceil(n / (2 * numRows - 2.0));
-        int numCols = sections * (numRows - 1);
-        
-        char[][] matrix = new char[numRows][numCols];
-        for (char[] row: matrix) {
-            Arrays.fill(row, ' ');
-        }
-        
-        int currRow = 0, currCol = 0;
-        int currStringIndex = 0;
-        
-        // Iterate in zig-zag pattern on matrix and fill it with string characters.
-        while (currStringIndex < n) {
-            // Move down.
-            while (currRow < numRows && currStringIndex < n) {
-                matrix[currRow][currCol] = s.charAt(currStringIndex);
-                currRow++;
-                currStringIndex++;
+        int row=0;
+        int dir=1;
+        for(char c: s.toCharArray()){
+            rows[row].append(c);
+            if(row==0){
+                dir=1;
             }
-            
-            currRow -= 2;
-            currCol++;
-            
-            // Move up (with moving right also).
-            while (currRow > 0 && currCol < numCols && currStringIndex < n) {
-                matrix[currRow][currCol] = s.charAt(currStringIndex);
-                currRow--;
-                currCol++;
-                currStringIndex++;
+            else if(row == numRows-1){
+                dir =-1;
             }
+            row+=dir;
         }
-        
-        StringBuilder answer = new StringBuilder();
-        for (char[] row: matrix) {
-            for (char character: row) {
-                if (character != ' ') {
-                    answer.append(character);
-                }
-            }
+        StringBuilder result = new StringBuilder();
+        for(StringBuilder sb: rows){
+            result.append(sb);
         }
-        
-        return answer.toString();    
+        return result.toString();
     }
 }
