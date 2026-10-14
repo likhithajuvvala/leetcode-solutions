@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Solved:** 282 (Easy 112 / Medium 139 / Hard 31)
+**Solved:** 287 (Easy 114 / Medium 142 / Hard 31)
 
 | # | Title | Difficulty | Language |
 |---|---|---|---|
@@ -31,6 +31,7 @@
 | 26 | [Remove Duplicates from Sorted Array](solutions/0026-remove-duplicates-from-sorted-array/) | Easy | python3 |
 | 26 | [Remove Duplicates from Sorted Array](solutions/0026-remove-duplicates-from-sorted-array/) | Easy | java |
 | 27 | [Remove Element](solutions/0027-remove-element/) | Easy | java |
+| 28 | [Find the Index of the First Occurrence in a String](solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | java |
 | 31 | [Next Permutation](solutions/0031-next-permutation/) | Medium | cpp |
 | 31 | [Next Permutation](solutions/0031-next-permutation/) | Medium | java |
 | 32 | [Longest Valid Parentheses](solutions/0032-longest-valid-parentheses/) | Hard | python3 |
@@ -48,8 +49,10 @@
 | 50 | [Pow(x, n)](solutions/0050-powx-n/) | Medium | java |
 | 51 | [N-Queens](solutions/0051-n-queens/) | Hard | java |
 | 53 | [Maximum Subarray](solutions/0053-maximum-subarray/) | Medium | python3 |
+| 53 | [Maximum Subarray](solutions/0053-maximum-subarray/) | Medium | java |
 | 55 | [Jump Game](solutions/0055-jump-game/) | Medium | java |
 | 56 | [Merge Intervals](solutions/0056-merge-intervals/) | Medium | python3 |
+| 58 | [Length of Last Word](solutions/0058-length-of-last-word/) | Easy | java |
 | 60 | [Permutation Sequence](solutions/0060-permutation-sequence/) | Hard | python3 |
 | 61 | [Rotate List](solutions/0061-rotate-list/) | Medium | python3 |
 | 62 | [Unique Paths](solutions/0062-unique-paths/) | Medium | python3 |
@@ -177,6 +180,7 @@
 | 876 | [Middle of the Linked List](solutions/0876-middle-of-the-linked-list/) | Easy | java |
 | 876 | [Middle of the Linked List](solutions/0876-middle-of-the-linked-list/) | Easy | python3 |
 | 904 | [Fruit Into Baskets](solutions/0904-fruit-into-baskets/) | Medium | java |
+| 918 | [Maximum Sum Circular Subarray](solutions/0918-maximum-sum-circular-subarray/) | Medium | java |
 | 920 | [Number of Music Playlists](solutions/0920-number-of-music-playlists/) | Hard | python3 |
 | 921 | [Minimum Add to Make Parentheses Valid](solutions/0921-minimum-add-to-make-parentheses-valid/) | Medium | java |
 | 921 | [Minimum Add to Make Parentheses Valid](solutions/0921-minimum-add-to-make-parentheses-valid/) | Medium | python3 |
@@ -285,4 +289,5 @@
 | 3578 | [Count Partitions With Max-Min Difference at Most K](solutions/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium | java |
 | 3583 | [Count Special Triplets](solutions/3583-count-special-triplets/) | Medium | java |
 | 3625 | [Count Number of Trapezoids II](solutions/3625-count-number-of-trapezoids-ii/) | Hard | java |
+| 3723 | [Maximize Sum of Squares of Digits](solutions/3723-maximize-sum-of-squares-of-digits/) | Medium | java |
 | 3727 | [Maximum Alternating Sum of Squares](solutions/3727-maximum-alternating-sum-of-squares/) | Medium | java |

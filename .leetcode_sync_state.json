@@ -436,7 +436,13 @@
   2170090530,
   2170102522,
   2170108242,
-  2171307471
+  2171307471,
+  2171997583,
+  2172016166,
+  2172025299,
+  2172027439,
+  2172050632,
+  2172058690
  ],
  "problems": {
   "binary-tree-inorder-traversal:java": {
@@ -2694,6 +2700,46 @@
    "difficulty": "Medium",
    "lang": "java",
    "folder": "solutions/3727-maximum-alternating-sum-of-squares"
+  },
+  "find-the-index-of-the-first-occurrence-in-a-string:java": {
+   "id": 28,
+   "title": "Find the Index of the First Occurrence in a String",
+   "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0028-find-the-index-of-the-first-occurrence-in-a-string"
+  },
+  "length-of-last-word:java": {
+   "id": 58,
+   "title": "Length of Last Word",
+   "slug": "length-of-last-word",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0058-length-of-last-word"
+  },
+  "maximize-sum-of-squares-of-digits:java": {
+   "id": 3723,
+   "title": "Maximize Sum of Squares of Digits",
+   "slug": "maximize-sum-of-squares-of-digits",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/3723-maximize-sum-of-squares-of-digits"
+  },
+  "maximum-subarray:java": {
+   "id": 53,
+   "title": "Maximum Subarray",
+   "slug": "maximum-subarray",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0053-maximum-subarray"
+  },
+  "maximum-sum-circular-subarray:java": {
+   "id": 918,
+   "title": "Maximum Sum Circular Subarray",
+   "slug": "maximum-sum-circular-subarray",
+   "difficulty": "Medium",
+   "lang": "java",
+   "folder": "solutions/0918-maximum-sum-circular-subarray"
   }
  }
 }
