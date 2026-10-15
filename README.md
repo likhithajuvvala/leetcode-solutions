@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Solved:** 292 (Easy 115 / Medium 146 / Hard 31)
+**Solved:** 294 (Easy 117 / Medium 146 / Hard 31)
 
 | # | Title | Difficulty | Language |
 |---|---|---|---|
@@ -84,6 +84,7 @@
 | 101 | [Symmetric Tree](solutions/0101-symmetric-tree/) | Easy | python3 |
 | 102 | [Binary Tree Level Order Traversal](solutions/0102-binary-tree-level-order-traversal/) | Medium | java |
 | 104 | [Maximum Depth of Binary Tree](solutions/0104-maximum-depth-of-binary-tree/) | Easy | java |
+| 108 | [Convert Sorted Array to Binary Search Tree](solutions/0108-convert-sorted-array-to-binary-search-tree/) | Easy | java |
 | 118 | [Pascal's Triangle](solutions/0118-pascals-triangle/) | Easy | java |
 | 121 | [Best Time to Buy and Sell Stock](solutions/0121-best-time-to-buy-and-sell-stock/) | Easy | java |
 | 121 | [Best Time to Buy and Sell Stock](solutions/0121-best-time-to-buy-and-sell-stock/) | Easy | python3 |
@@ -273,6 +274,7 @@
 | 2840 | [Check if Strings Can be Made Equal With Operations II](solutions/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium | java |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | java |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](solutions/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy | java |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](solutions/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium | java |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | java |
 | 3151 | [Special Array I](solutions/3151-special-array-i/) | Easy | java |

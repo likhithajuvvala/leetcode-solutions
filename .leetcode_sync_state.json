@@ -447,7 +447,9 @@
   2172490530,
   2172497272,
   2172521961,
-  2172522588
+  2172522588,
+  2173417484,
+  2173426196
  ],
  "problems": {
   "binary-tree-inorder-traversal:java": {
@@ -2785,6 +2787,22 @@
    "difficulty": "Medium",
    "lang": "java",
    "folder": "solutions/0033-search-in-rotated-sorted-array"
+  },
+  "subarrays-distinct-element-sum-of-squares-i:java": {
+   "id": 2913,
+   "title": "Subarrays Distinct Element Sum of Squares I",
+   "slug": "subarrays-distinct-element-sum-of-squares-i",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/2913-subarrays-distinct-element-sum-of-squares-i"
+  },
+  "convert-sorted-array-to-binary-search-tree:java": {
+   "id": 108,
+   "title": "Convert Sorted Array to Binary Search Tree",
+   "slug": "convert-sorted-array-to-binary-search-tree",
+   "difficulty": "Easy",
+   "lang": "java",
+   "folder": "solutions/0108-convert-sorted-array-to-binary-search-tree"
   }
  }
 }
