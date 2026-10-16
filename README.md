@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Solved:** 294 (Easy 117 / Medium 146 / Hard 31)
+**Solved:** 295 (Easy 117 / Medium 146 / Hard 32)
 
 | # | Title | Difficulty | Language |
 |---|---|---|---|
@@ -275,6 +275,7 @@
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](solutions/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | java |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](solutions/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy | java |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](solutions/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy | java |
+| 2916 | [Subarrays Distinct Element Sum of Squares II](solutions/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard | java |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](solutions/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium | java |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](solutions/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | java |
 | 3151 | [Special Array I](solutions/3151-special-array-i/) | Easy | java |
